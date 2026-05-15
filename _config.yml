@@ -21,7 +21,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/home'}
+  - {name: 'Home', link: 'https://asabspring2027.github.io/'}
   - {name: 'Programme', link: '/programme'}
   - {name: 'Venue', link: '/venue'}
   - {name: 'Registration', link: '/registration'}
