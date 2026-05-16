@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Registration
 summary: Registration for the ASAB Spring Conference 2027 is now open!
 featured-img: emile-perron-190221
