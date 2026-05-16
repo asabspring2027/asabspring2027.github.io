@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ASAB Sping Conference 2027 - Registration
+title: Registration
 permalink: /registration/
+featured-img: shane-rounce-205187
 ---
 
 Dates for early registration (if any) and deadlines for registration and abstract submission.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ASAB Sping Conference 2027 - Programme
+title: Programme
 permalink: /programme/
 featured-img: emile-perron-190221
 ---

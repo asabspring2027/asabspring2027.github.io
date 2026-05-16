@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+featured-img: shane-rounce-205187
 ---
 
 Jekyll is a great tool to create static sites, but there’s no backend to send your data to.

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ASAB Sping Conference 2027 - Venue
+title: Venue
 permalink: /venue/
+featured-img: shane-rounce-205187
 ---
 
 Where things will happen... 
