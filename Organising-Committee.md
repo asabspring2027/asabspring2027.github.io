@@ -5,7 +5,7 @@ permalink: /Organising-Committee/
 featured-img: shane-rounce-205187
 ---
 
-Organising Committee
+# Organising Committee
 
 Lucy Bates
 Esther Herrmann
