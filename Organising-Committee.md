@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organising Committee
-permalink: /committee/
+permalink: /Organising-Committee/
 featured-img: shane-rounce-205187
 ---
 
