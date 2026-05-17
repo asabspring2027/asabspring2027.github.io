@@ -5,7 +5,7 @@ permalink: /programme/
 featured-img: emile-perron-190221
 ---
 
-# Plenary speakers 
+## Plenary speakers 
 
  Name 1
  
@@ -14,6 +14,6 @@ featured-img: emile-perron-190221
  Name 3
 
 
-# Full programme
+## Full programme
 
 Include table with programme and link to pdf
