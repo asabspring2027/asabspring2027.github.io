@@ -5,16 +5,26 @@ permalink: /venue/
 featured-img: shane-rounce-205187
 ---
 
-# Where (including Hublets)
+## Where (including Hublets)
+Where things will happen
+
+## How to get there
+Plane: Maybe consider using other form of transportation
+
+Train: good luck!
+
+Car: same
 
 
-# How to get there
+## Where to stay 
+Option 1
 
+Option 2
 
-# Where to stay 
+Option 3
 
-
-# What to see
+## What to see
+Suggestions
 
 
 
