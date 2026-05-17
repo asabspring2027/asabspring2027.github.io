@@ -1,3 +1,10 @@
+---
+layout: page
+title: Organising Committee
+permalink: /committee/
+featured-img: shane-rounce-205187
+---
+
 Organising Committee
 
 Lucy Bates
