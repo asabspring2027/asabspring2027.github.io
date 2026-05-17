@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Venue', link: '/venue'}
   - {name: 'Registration', link: '/registration'}
   - {name: 'Information', link: '/information'}
-  - {name: 'Organising Committee', link: '/Committee'}
+  - {name: 'Organising Committee', link: '/Organising-Committee'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
