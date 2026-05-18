@@ -16,4 +16,10 @@ featured-img: emile-perron-190221
 
 ## Full programme
 
+| Day           | Time    | Topic   |
+| --------------| ------- |---------|
+| 07/04/2027    |         |         |
+| 08/04/2027    |         |         |
+| 09/04/2027    |         |         |
+
 Include table with programme and link to pdf
