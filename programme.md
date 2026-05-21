@@ -2,7 +2,7 @@
 layout: page
 title: Programme
 permalink: /programme/
-featured-img: emile-perron-190221
+featured-img: lion
 ---
 
 ## Plenary speakers 
