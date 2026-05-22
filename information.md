@@ -8,7 +8,7 @@ featured-img: shane-rounce-205187
 <table>
   <tr>
     <td align="center">
-      <a href="Info-presenters.md">
+      <link: '/info-presenters>
         <img src="_img/lion.jpg" width="250"><br>
         <strong>Information for Presenters</strong>
       </a>
@@ -30,13 +30,3 @@ featured-img: shane-rounce-205187
   </tr>
 </table>
 
-## Information for Presenters
-Talks: information about talks
-
-Posters: information about posters
-
-
-## Information for Attendees
-Maybe we can have one page for information with two post
-
-### Code of conduct
