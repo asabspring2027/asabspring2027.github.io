@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Information for Presenters & Attendees
-permalink: /information/
-featured-img: shane-rounce-205187
+title: Information for Presenters
+permalink: /Info-presenters/
+featured-img: _img/lion.jpg
 ---
 
 ## Abstract submission will open on **DD MM YYYY**
