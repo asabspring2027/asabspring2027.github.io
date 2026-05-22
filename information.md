@@ -22,7 +22,7 @@ featured-img: shane-rounce-205187
     </td>
 
     <td align="center">
-      <a href="page3.md">
+      <a href="https://asabspring2027.github.io/registration/">
         <img src="https://via.placeholder.com/250" width="250"><br>
         <strong>Registration</strong>
       </a>
