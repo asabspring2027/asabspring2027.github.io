@@ -32,7 +32,7 @@ navigation: # Navigation links
 tagline: >
   University of Portsmouth &amp; Center for Comparative and Evolutionary Psychology
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: # posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
