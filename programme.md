@@ -22,4 +22,4 @@ featured-img: lion.jpg
 | 08/04/2027    |         |         |
 | 09/04/2027    |         |         |
 
-Include table with programme and link to pdf
+Include link to pdf
