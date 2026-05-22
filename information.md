@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageinfo
 title: Information for Presenters & Attendees
 permalink: /information/
 featured-img: shane-rounce-205187
