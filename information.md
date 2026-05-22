@@ -8,7 +8,7 @@ featured-img: shane-rounce-205187
 <table>
   <tr>
     <td align="center">
-      <a href="Info-presenters.md">
+      <a href="Info-presenters">
         <img src="_img/lion.jpg" width="250"><br>
         <strong>Information for Presenters</strong>
       </a>
