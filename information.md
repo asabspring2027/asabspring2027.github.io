@@ -10,21 +10,21 @@ featured-img: shane-rounce-205187
     <td align="center">
       <a href="page1.md">
         <img src="https://via.placeholder.com/250" width="250"><br>
-        <strong>Project One</strong>
+        <strong>Information for Presenters</strong>
       </a>
     </td>
 
     <td align="center">
       <a href="page2.md">
         <img src="https://via.placeholder.com/250" width="250"><br>
-        <strong>Project Two</strong>
+        <strong>Information for Attendees</strong>
       </a>
     </td>
 
     <td align="center">
       <a href="page3.md">
         <img src="https://via.placeholder.com/250" width="250"><br>
-        <strong>Project Three</strong>
+        <strong>Registration</strong>
       </a>
     </td>
   </tr>
