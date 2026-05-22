@@ -8,8 +8,8 @@ featured-img: shane-rounce-205187
 <table>
   <tr>
     <td align="center">
-      <a href="page1.md">
-        <img src="https://via.placeholder.com/250" width="250"><br>
+      <a href="Info-presenters.md">
+        <img src="_img/lion.jpg" width="250"><br>
         <strong>Information for Presenters</strong>
       </a>
     </td>
