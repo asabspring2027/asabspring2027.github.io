@@ -13,15 +13,15 @@ featured-img: shane-rounce-205187
     <figure class="post-card__thumb">
       <img
         src="/assets/img/profile-pics/rachel-thomson.jpg"
-        alt="Rachel Thomson"
+        alt="Marine Joly"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Rachel Thomson</h2>
+        <h2>Marine Joly</h2>
       </div>
-      <p>Short blurb about Rachel Thomson goes here.</p>
+      <p>Short blurb about Marine Joly goes here.</p>
     </div>
   </div>
 
@@ -45,22 +45,6 @@ featured-img: shane-rounce-205187
     <figure class="post-card__thumb">
       <img
         src="/assets/img/people/lucy-bates.jpg"
-        alt="Marine Joly"
-      />
-    </figure>
-
-    <div class="post-card__inner committee-card__inner">
-      <div class="post-card__header">
-        <h2>LMarine Joly</h2>
-      </div>
-      <p>Short blurb about Marine Joly goes here.</p>
-    </div>
-  </div>
-
-<div class="post-card committee-card">
-    <figure class="post-card__thumb">
-      <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
         alt="Teresa Romero"
       />
     </figure>
@@ -70,6 +54,22 @@ featured-img: shane-rounce-205187
         <h2>Teresa Romero</h2>
       </div>
       <p>Short blurb about Teresa Romero goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Rachel Thomson"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Rachel Thomson</h2>
+      </div>
+      <p>Short blurb about Rachel Thomson goes here.</p>
     </div>
   </div>
 
