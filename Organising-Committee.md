@@ -174,18 +174,23 @@ featured-img: shane-rounce-205187
 </style>
 
 <style>
-/* Make this page's content wider, closer to the homepage cards */
+/* Make the page content behave more like the wide homepage card layout */
 .site__content .container {
-  max-width: 1500px !important;
+  max-width: none !important;
 }
 
-/* Three wide cards per row */
+/* Main committee card grid */
 .committee-grid {
   display: grid !important;
   grid-template-columns: repeat(3, minmax(300px, 1fr)) !important;
-  gap: 3rem !important;
+  gap: 2.5rem !important;
   margin-top: 3rem !important;
-  width: 100% !important;
+
+  /* wider, centred grid with equal left/right gaps */
+  width: 90vw !important;
+  max-width: 1500px !important;
+  margin-left: 50% !important;
+  transform: translateX(-50%) !important;
 }
 
 /* Make each card fill its grid column */
@@ -195,9 +200,10 @@ featured-img: shane-rounce-205187
   min-width: 0 !important;
   margin: 0 !important;
   display: block !important;
+  cursor: default !important;
 }
 
-/* Make image area more square */
+/* Image area: a bit squarer than the homepage cards */
 .committee-grid .post-card__thumb {
   width: 100% !important;
   aspect-ratio: 1 / 0.8 !important;
@@ -207,17 +213,17 @@ featured-img: shane-rounce-205187
   display: block !important;
 }
 
-/* Crop image neatly but favour faces */
+/* Images crop neatly but favour the top/face area */
 .committee-grid .post-card__thumb img,
 .committee-grid .post-card__thumb .dark-bg {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center 25% !important;
+  object-position: center top !important;
   display: block !important;
 }
 
-/* Text area */
+/* Text section inside each card */
 .committee-grid .post-card__inner {
   display: block !important;
   padding: 2rem !important;
@@ -225,26 +231,31 @@ featured-img: shane-rounce-205187
   cursor: default !important;
 }
 
+/* Name */
 .committee-grid .post-card__header h2 {
   margin: 0 0 1rem 0 !important;
 }
 
+/* Blurb */
 .committee-grid .post-card__inner p {
   margin: 0 !important;
 }
 
-/* Tablet */
+/* Tablet: two cards per row */
 @media (max-width: 1000px) {
   .committee-grid {
     grid-template-columns: repeat(2, minmax(260px, 1fr)) !important;
+    width: 92vw !important;
   }
 }
 
-/* Phone */
+/* Phone: one card per row */
 @media (max-width: 700px) {
   .committee-grid {
     grid-template-columns: 1fr !important;
+    width: 92vw !important;
   }
 }
 </style>
+
 
