@@ -174,14 +174,21 @@ featured-img: shane-rounce-205187
 </style>
 
 <style>
+/* Make this page's content wider, closer to the homepage cards */
+.site__content .container {
+  max-width: 1500px !important;
+}
+
+/* Three wide cards per row */
 .committee-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, minmax(280px, 1fr)) !important;
+  grid-template-columns: repeat(3, minmax(300px, 1fr)) !important;
   gap: 3rem !important;
   margin-top: 3rem !important;
   width: 100% !important;
 }
 
+/* Make each card fill its grid column */
 .committee-grid .post-card {
   width: 100% !important;
   max-width: none !important;
@@ -190,22 +197,27 @@ featured-img: shane-rounce-205187
   display: block !important;
 }
 
+/* Make image area more square */
 .committee-grid .post-card__thumb {
   width: 100% !important;
-  height: 220px !important;
+  aspect-ratio: 1 / 0.8 !important;
+  height: auto !important;
   margin: 0 !important;
   overflow: hidden !important;
   display: block !important;
 }
 
+/* Crop image neatly but favour faces */
 .committee-grid .post-card__thumb img,
 .committee-grid .post-card__thumb .dark-bg {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
+  object-position: center 25% !important;
   display: block !important;
 }
 
+/* Text area */
 .committee-grid .post-card__inner {
   display: block !important;
   padding: 2rem !important;
@@ -221,18 +233,18 @@ featured-img: shane-rounce-205187
   margin: 0 !important;
 }
 
+/* Tablet */
 @media (max-width: 1000px) {
   .committee-grid {
     grid-template-columns: repeat(2, minmax(260px, 1fr)) !important;
   }
 }
 
+/* Phone */
 @media (max-width: 700px) {
   .committee-grid {
     grid-template-columns: 1fr !important;
   }
 }
 </style>
-
-
 
