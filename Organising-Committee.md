@@ -45,44 +45,68 @@ featured-img: shane-rounce-205187
 
 </div>
 
+</style>
+
 <style>
 .committee-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 3rem;
-  margin-top: 2rem;
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(280px, 1fr)) !important;
+  gap: 3rem !important;
+  margin-top: 3rem !important;
+  width: 100% !important;
 }
 
-.committee-card {
-  cursor: default;
+.committee-grid .post-card {
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  display: block !important;
 }
 
-.committee-card a {
-  pointer-events: none;
+.committee-grid .post-card__thumb {
+  width: 100% !important;
+  height: 220px !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+  display: block !important;
 }
 
-.committee-card .post-card__thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
+.committee-grid .post-card__thumb img,
+.committee-grid .post-card__thumb .dark-bg {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
 }
 
-/* This stops the card behaving like a link */
-.committee-card__inner {
-  cursor: default;
-  text-decoration: none;
+.committee-grid .post-card__inner {
+  display: block !important;
+  padding: 2rem !important;
+  text-decoration: none !important;
+  cursor: default !important;
 }
 
-/* Mobile layout */
-@media (max-width: 900px) {
+.committee-grid .post-card__header h2 {
+  margin: 0 0 1rem 0 !important;
+}
+
+.committee-grid .post-card__inner p {
+  margin: 0 !important;
+}
+
+@media (max-width: 1000px) {
   .committee-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(260px, 1fr)) !important;
+  }
+}
+
+@media (max-width: 700px) {
+  .committee-grid {
+    grid-template-columns: 1fr !important;
   }
 }
 </style>
-
-
 
 
 
