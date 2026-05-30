@@ -174,7 +174,7 @@ featured-img: shane-rounce-205187
 </style>
 
 <style>
-/* Make the page content behave more like the wide homepage card layout */
+/* Keep the page wide enough, but not huge */
 .site__content .container {
   max-width: none !important;
 }
@@ -182,13 +182,15 @@ featured-img: shane-rounce-205187
 /* Main committee card grid */
 .committee-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, minmax(300px, 1fr)) !important;
-  gap: 2.5rem !important;
+  grid-template-columns: repeat(3, minmax(280px, 1fr)) !important;
+  gap: 2.2rem !important;
   margin-top: 3rem !important;
 
-  /* wider, centred grid with equal left/right gaps */
-  width: 90vw !important;
-  max-width: 1500px !important;
+  /* similar width to the homepage card area */
+  width: 84vw !important;
+  max-width: 1320px !important;
+
+  /* centre evenly */
   margin-left: 50% !important;
   transform: translateX(-50%) !important;
 }
@@ -203,37 +205,37 @@ featured-img: shane-rounce-205187
   cursor: default !important;
 }
 
-/* Image area: a bit squarer than the homepage cards */
+/* Image area: less tall than before, closer to homepage */
 .committee-grid .post-card__thumb {
   width: 100% !important;
-  aspect-ratio: 1 / 0.8 !important;
+  aspect-ratio: 1.55 / 1 !important;
   height: auto !important;
   margin: 0 !important;
   overflow: hidden !important;
   display: block !important;
 }
 
-/* Images crop neatly but favour the top/face area */
+/* Images crop neatly but favour the face/top area */
 .committee-grid .post-card__thumb img,
 .committee-grid .post-card__thumb .dark-bg {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center top !important;
+  object-position: center 25% !important;
   display: block !important;
 }
 
-/* Text section inside each card */
+/* Text section */
 .committee-grid .post-card__inner {
   display: block !important;
-  padding: 2rem !important;
+  padding: 1.8rem !important;
   text-decoration: none !important;
   cursor: default !important;
 }
 
 /* Name */
 .committee-grid .post-card__header h2 {
-  margin: 0 0 1rem 0 !important;
+  margin: 0 0 0.9rem 0 !important;
 }
 
 /* Blurb */
@@ -245,7 +247,7 @@ featured-img: shane-rounce-205187
 @media (max-width: 1000px) {
   .committee-grid {
     grid-template-columns: repeat(2, minmax(260px, 1fr)) !important;
-    width: 92vw !important;
+    width: 90vw !important;
   }
 }
 
@@ -253,9 +255,7 @@ featured-img: shane-rounce-205187
 @media (max-width: 700px) {
   .committee-grid {
     grid-template-columns: 1fr !important;
-    width: 92vw !important;
+    width: 90vw !important;
   }
 }
 </style>
-
-
