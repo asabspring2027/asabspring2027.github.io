@@ -57,6 +57,118 @@ featured-img: shane-rounce-205187
     </div>
   </div>
 
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Teresa Romero"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Teresa Romero</h2>
+      </div>
+      <p>Short blurb about Teresa Romero goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Sarah Salphati"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Sarah Salphati</h2>
+      </div>
+      <p>Short blurb about Sarah Salphati goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Vasco Honigford-Martins"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Vasco Honigford-Martins</h2>
+      </div>
+      <p>Short blurb about Vasco Honigford-Martins goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Leanne Proops"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Leanne Proops</h2>
+      </div>
+      <p>Short blurb about Leanne Proops goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Jerome Micheletta"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Jerome Micheletta</h2>
+      </div>
+      <p>Short blurb about Jerome Micheletta goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Juliane Kaminski"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Juliane Kaminski</h2>
+      </div>
+      <p>Short blurb about Juliane Kaminski goes here.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        alt="Ester Herrmann"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Ester Herrmann</h2>
+      </div>
+      <p>Short blurb about Ester Herrmann goes here.</p>
+    </div>
+  </div>
+
 </div>
 
 </style>
