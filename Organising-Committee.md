@@ -12,7 +12,7 @@ featured-img: shane-rounce-205187
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/people/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
         alt="Rachel Thomson"
       />
     </figure>
