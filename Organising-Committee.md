@@ -41,7 +41,21 @@ featured-img: shane-rounce-205187
     </div>
   </div>
 
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/people/lucy-bates.jpg"
+        alt="Marine Joly"
+      />
+    </figure>
 
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>LMarine Joly</h2>
+      </div>
+      <p>Short blurb about Marine Joly goes here.</p>
+    </div>
+  </div>
 
 </div>
 
