@@ -25,6 +25,24 @@ featured-img: shane-rounce-205187
     </div>
   </div>
 
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/people/lucy-bates.jpg"
+        alt="Lucy Bates"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Lucy Bates</h2>
+      </div>
+      <p>Short blurb about Lucy Bates goes here.</p>
+    </div>
+  </div>
+
+
+
 </div>
 
 <style>
