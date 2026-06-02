@@ -99,7 +99,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Vasco Honigford-Martins</h2>
       </div>
-      <p>Vasco is a second year PhD student exploring the intersection of wildlife behaviour, plastic pollution, and human perspectives. His interdisciplinary research examines moor macaque interactions with plastic waste, human perceptions of wildlife–waste interactions, and arts-based approaches to raise awareness.</p>
+      <p>Vasco is a second year PhD student exploring the intersection of wildlife behaviour, plastic pollution, and human perspectives of primate behaviour in Indonesia. His interdisciplinary research examines moor macaque interactions with plastic waste, human perceptions of wildlife–waste interactions, and arts-based approaches to raise awareness.</p>
     </div>
   </div>
 
