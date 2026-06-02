@@ -67,7 +67,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Rachel Thomson</h2>
       </div>
-      <p>Short blurb about Rachel Thomson goes here.</p>
+      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict. She is studying wild elephant curiosity - with the aim of exploring if specific traits are associated with the age-sex cohorts that engage in crop-raiding. She is also investigating zoo elephant problem-solving behaviour using puzzle boxes, and working to validate a captive elephant personality questionnaire for the Elephant Welfare Group.</p>
     </div>
   </div>
 
@@ -99,7 +99,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Vasco Honigford-Martins</h2>
       </div>
-      <p>Vasco is a PhD student exploring the intersection of wildlife behaviour, plastic pollution, and human perspectives. His interdisciplinary research examines moor macaque interactions with plastic waste, human perceptions of wildlife–waste interactions, and arts-based approaches to raise awareness.</p>
+      <p>Vasco is a second year PhD student exploring the intersection of wildlife behaviour, plastic pollution, and human perspectives. His interdisciplinary research examines moor macaque interactions with plastic waste, human perceptions of wildlife–waste interactions, and arts-based approaches to raise awareness.</p>
     </div>
   </div>
 
