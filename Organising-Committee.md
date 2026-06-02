@@ -67,7 +67,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Rachel Thomson</h2>
       </div>
-      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict. She is studying wild elephant curiosity - with the aim of exploring if specific traits are associated with the age-sex cohorts that engage in crop-raiding. She is also investigating zoo elephant problem-solving behaviour using puzzle boxes, and validating a personality questionnaire for the Elephant Welfare Group.</p>
+      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict in Botswana. She is studying wild elephant curiosity to explore if specific traits are associated with the age-sex cohorts that crop-raid. She is also investigating zoo elephant problem-solving behaviour using puzzle boxes, and validating a personality questionnaire for the Elephant Welfare Group.</p>
     </div>
   </div>
 
