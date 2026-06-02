@@ -12,7 +12,7 @@ featured-img: shane-rounce-205187
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/marine-joly.jpg"
         alt="Marine Joly"
       />
     </figure>
@@ -44,7 +44,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/teresa-romero.jpg"
         alt="Teresa Romero"
       />
     </figure>
@@ -76,7 +76,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/sarah-salphati.jpg"
         alt="Sarah Salphati"
       />
     </figure>
@@ -92,7 +92,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/vasco-honigford-martins.jpg"
         alt="Vasco Honigford-Martins"
       />
     </figure>
@@ -108,7 +108,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/leanne-proops.jpg"
         alt="Leanne Proops"
       />
     </figure>
@@ -124,7 +124,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/jerome-micheletta.jpg"
         alt="Jerome Micheletta"
       />
     </figure>
@@ -140,7 +140,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/juliane-kaminski.jpg"
         alt="Juliane Kaminski"
       />
     </figure>
@@ -156,7 +156,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/ester-herrmann.jpg"
         alt="Ester Herrmann"
       />
     </figure>
