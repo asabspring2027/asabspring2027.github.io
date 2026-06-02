@@ -28,7 +28,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/people/lucy-bates.jpg"
+        src="/assets/img/profile-pics/lucy-bates.jpg"
         alt="Lucy Bates"
       />
     </figure>
@@ -44,7 +44,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/people/lucy-bates.jpg"
+        src="/assets/img/profile-pics/lucy-bates.jpg"
         alt="Teresa Romero"
       />
     </figure>
@@ -60,7 +60,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson.jpg"
+        src="/assets/img/profile-pics/rachel-thomson2.jpg"
         alt="Rachel Thomson"
       />
     </figure>
@@ -101,7 +101,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Vasco Honigford-Martins</h2>
       </div>
-      <p>Short blurb about Vasco Honigford-Martins goes here.</p>
+      <p>Vasco is a PhD student exploring the intersection of wildlife behaviour, plastic pollution, and human perspectives. His interdisciplinary research examines moor macaque interactions with plastic waste, human perceptions of wildlife–waste interactions, and arts-based approaches to raise awareness.</p>
     </div>
   </div>
 
