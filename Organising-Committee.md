@@ -44,7 +44,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/lucy-bates.jpg"
+        src="/assets/img/profile-pics/rachel-thomson.jpg"
         alt="Teresa Romero"
       />
     </figure>
