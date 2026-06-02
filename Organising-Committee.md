@@ -5,8 +5,6 @@ permalink: /Organising-Committee/
 featured-img: shane-rounce-205187
 ---
 
-## Organising Committee
-
 <div class="committee-grid">
 
   <div class="post-card committee-card">
@@ -92,7 +90,7 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/vasco-honigford-martins.jpg"
+        src="/assets/img/profile-pics/vasco-honigford-martins2.jpg"
         alt="Vasco Honigford-Martins"
       />
     </figure>
