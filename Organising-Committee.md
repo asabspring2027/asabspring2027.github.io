@@ -171,8 +171,6 @@ featured-img: shane-rounce-205187
 
 </div>
 
-</style>
-
 <style>
 /* Keep the page wide enough, but not huge */
 .site__content .container {
@@ -187,8 +185,8 @@ featured-img: shane-rounce-205187
   margin-top: 3rem !important;
 
   /* similar width to the homepage card area */
-  width: 84vw !important;
-  max-width: 1320px !important;
+  width: 78vw !important;
+  max-width: 1200px !important;
 
   /* centre evenly */
   margin-left: 50% !important;
@@ -205,10 +203,10 @@ featured-img: shane-rounce-205187
   cursor: default !important;
 }
 
-/* Image area: less tall than before, closer to homepage */
+/* Image area: same width, but a bit taller for profile photos */
 .committee-grid .post-card__thumb {
   width: 100% !important;
-  aspect-ratio: 1.55 / 1 !important;
+  aspect-ratio: 1.25 / 1 !important;
   height: auto !important;
   margin: 0 !important;
   overflow: hidden !important;
@@ -221,7 +219,7 @@ featured-img: shane-rounce-205187
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center 25% !important;
+  object-position: center 20% !important;
   display: block !important;
 }
 
@@ -259,3 +257,4 @@ featured-img: shane-rounce-205187
   }
 }
 </style>
+
