@@ -42,16 +42,16 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/teresa-romero.jpg"
-        alt="Teresa Romero"
+        src="/assets/img/profile-pics/juliane-kaminski.jpg"
+        alt="Juliane Kaminski"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Teresa Romero</h2>
+        <h2>Juliane Kaminski</h2>
       </div>
-      <p>Short blurb about Teresa Romero goes here.</p>
+      <p>Short blurb about Juliane Kaminski goes here.</p>
     </div>
   </div>
 
@@ -138,16 +138,16 @@ featured-img: shane-rounce-205187
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/juliane-kaminski.jpg"
-        alt="Juliane Kaminski"
+        src="/assets/img/profile-pics/teresa-romero.jpg"
+        alt="Teresa Romero"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Juliane Kaminski</h2>
+        <h2>Teresa Romero</h2>
       </div>
-      <p>Short blurb about Juliane Kaminski goes here.</p>
+      <p>Short blurb about Teresa Romero goes here.</p>
     </div>
   </div>
 
