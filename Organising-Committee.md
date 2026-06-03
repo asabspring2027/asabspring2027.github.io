@@ -131,7 +131,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Jerome Micheletta</h2>
       </div>
-      <p>Short blurb about Jerome Micheletta goes here.</p>
+      <p>A co-director of the Macaca Nigra project, Jerome Micheletta's research focuses on the evolution of social communication. He is interested in the link between social complexity and communication complexity, studying the communication system of the socially tolerant and understudied crested macaque. His research combines observations of wild animals with cognitive experiments in captive populations.</p>
     </div>
   </div>
 
