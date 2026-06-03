@@ -51,7 +51,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Juliane Kaminski</h2>
       </div>
-      <p>Short blurb about Juliane Kaminski goes here.</p>
+      <p>Juliane Kaminski is an Associate Professor in Comparative Psychology. Her main research interest is the evolution of human sociality - with special interests in an individual’s understanding of others’ perception, knowledge, intentions, desires and beliefs. She conducts research concerning cooperation and communication among individuals using a comparative approach, focusing on comparisons bewteen humans and great apes and domesticated dogs.</p>
     </div>
   </div>
 
@@ -115,7 +115,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Leanne Proops</h2>
       </div>
-      <p>Leanne Proops is Professor of Animal Behaviour and Welfare at the University of Portsmouth. Her research spans animal cognition, behaviour, and welfare, particularly in horses, donkeys, and their hybrids. Her particular interests lie in how animals perceive and respond to their social world, from everyday interactions to responses to social separation and death. She also explores how relationships between humans, animals, and the environment influence domestic animal welfare..</p>
+      <p>Leanne Proops is Professor of Animal Behaviour and Welfare at the University of Portsmouth. Her research spans animal cognition, behaviour, and welfare, particularly in horses, donkeys, and their hybrids. Her particular interests lie in how animals perceive and respond to their social world, from everyday interactions to responses to social separation and death. She also explores how relationships between humans, animals, and the environment influence domestic animal welfare.</p>
     </div>
   </div>
 
