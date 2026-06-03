@@ -35,7 +35,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Lucy Bates</h2>
       </div>
-      <p>Short blurb about Lucy Bates goes here.</p>
+      <p>Lucy Bates is a Senior Lecturer at the University of Portsmouth. Her research considers the evolution of social skills and intelligence in elephants; specifically, leading projects looking at elephant-human communication, interactions and how elephants learn to behave around people. She is exploring how understanding elephant leadership and social learning can contribute to and enable sustainable, fair and effective conservation practices.</p>
     </div>
   </div>
 
