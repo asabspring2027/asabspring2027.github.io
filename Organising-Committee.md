@@ -115,7 +115,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Leanne Proops</h2>
       </div>
-      <p>Short blurb about Leanne Proops goes here.</p>
+      <p>Leanne Proops is Professor of Animal Behaviour and Welfare at the University of Portsmouth. Her research spans animal cognition, behaviour, and welfare, particularly in horses, donkeys, and their hybrids. Her particular interests lie in how animals perceive and respond to their social world, from everyday interactions to responses to social separation and death. She also explores how relationships between humans, animals, and the environment influence domestic animal welfare..</p>
     </div>
   </div>
 
