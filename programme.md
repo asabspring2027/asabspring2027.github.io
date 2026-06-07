@@ -12,48 +12,48 @@ featured-img: lion.jpg
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/marine-joly.jpg"
-        alt="Marine Joly"
+        src="/assets/img/profile-pics/katie-slocombe.jpg"
+        alt="Katie Slocombe"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Marine Joly</h2>
+        <h2>Katie Slocombe</h2>
       </div>
-      <p>Short blurb about Marine Joly goes here.</p>
+      <p>Short blurb about Katie Slocombe goes here.</p>
     </div>
   </div>
 
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/lucy-bates.jpg"
-        alt="Lucy Bates"
+        src="/assets/img/profile-pics/alex-thornton.jpg"
+        alt="Alex Thornton"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Lucy Bates</h2>
+        <h2>Alex Thornton</h2>
       </div>
-      <p>Lucy Bates is a Senior Lecturer at the University of Portsmouth. Her research considers the evolution of social skills and intelligence in elephants; specifically, leading projects looking at elephant-human communication, interactions and how elephants learn to behave around people. She is exploring how understanding elephant leadership and social learning can contribute to and enable sustainable, fair and effective conservation practices.</p>
+      <p>Blurb about Alex Thornton here.</p>
     </div>
   </div>
 
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/juliane-kaminski.jpg"
-        alt="Juliane Kaminski"
+        src="/assets/img/profile-pics/aurore-avargues-weber.jpg"
+        alt="Aurore Avargues-Weber"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Juliane Kaminski</h2>
+        <h2>Aurore Avargues-Weber</h2>
       </div>
-      <p>Info about xxx herer.</p>
+      <p>Short blurb about Aurore Avargues-Weber here.</p>
     </div>
   </div>
 
