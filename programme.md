@@ -57,6 +57,8 @@ featured-img: lion.jpg
     </div>
   </div>
 
+</div>
+
 <style>
 /* Keep the page wide enough, but not huge */
 .site__content .container {
@@ -143,8 +145,6 @@ featured-img: lion.jpg
   }
 }
 </style>
-
-</div>
 
 ## Workshop Details 
 
