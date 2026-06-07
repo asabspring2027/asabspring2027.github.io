@@ -144,6 +144,8 @@ featured-img: lion.jpg
 }
 </style>
 
+</div>
+
 ## Workshop Details 
 
 Name: 
