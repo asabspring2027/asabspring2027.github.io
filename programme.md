@@ -147,7 +147,9 @@ featured-img: lion.jpg
 </style>
 
 
+
 ## Workshop Details 
+
 
 <div class="workshop-card">
   <div class="workshop-card__image">
