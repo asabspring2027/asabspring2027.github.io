@@ -169,25 +169,23 @@ featured-img: lion.jpg
 </div> 
 
 <style>
-/* Centre a single workshop card in the middle third of the page */
 .workshop-card {
-  width: 33vw;
-  max-width: 620px;
-  min-width: 420px;
+  width: 65vw;
+  max-width: 1000px;
+  min-width: 0;
   margin: 2.5rem auto;
   display: flex;
   align-items: flex-start;
-  gap: 1.5rem;
-  padding: 1.6rem;
+  gap: 2rem;
+  padding: 1.8rem;
   background: #fff;
   box-shadow: 0 2px 14px rgba(0, 0, 0, 0.08);
   border-radius: 4px;
 }
 
-/* Image on the left */
 .workshop-card__image {
-  flex: 0 0 150px;
-  height: 150px;
+  flex: 0 0 260px;
+  height: 190px;
   overflow: hidden;
   border-radius: 4px;
 }
@@ -200,19 +198,19 @@ featured-img: lion.jpg
   display: block;
 }
 
-/* Text on the right */
 .workshop-card__content {
   flex: 1;
+  min-width: 0;
 }
 
 .workshop-card__content h2 {
-  margin: 0 0 0.3rem 0;
-  font-size: 1.8rem;
+  margin: 0 0 0.4rem 0;
+  font-size: 2rem;
 }
 
 .workshop-card__content h3 {
   margin: 0 0 1rem 0;
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 500;
   color: #777;
 }
@@ -221,11 +219,9 @@ featured-img: lion.jpg
   margin: 0;
 }
 
-/* Phone: stack image above text */
 @media (max-width: 700px) {
   .workshop-card {
     width: 90vw;
-    min-width: 0;
     flex-direction: column;
   }
 
@@ -237,7 +233,6 @@ featured-img: lion.jpg
   }
 }
 </style>
-
 
 ## Full programme
 
