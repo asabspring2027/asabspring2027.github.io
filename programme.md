@@ -146,9 +146,97 @@ featured-img: lion.jpg
 }
 </style>
 
+
 ## Workshop Details 
 
-Name: 
+<div class="workshop-card">
+  <div class="workshop-card__image">
+    <img
+      src="/assets/img/profile-pics/christian-nawroth.jpg"
+      alt="Christian Nawroth"
+    />
+  </div>
+
+  <div class="workshop-card__content">
+    <h2>Christian Nawroth</h2>
+    <h3>Workshop details / title goes here</h3>
+
+    <p>
+      Write the blurb about the person and their workshop here. This can include
+      a short bio, what the workshop covers, and who it is suitable for.
+    </p>
+  </div>
+</div> 
+
+<style>
+/* Centre a single workshop card in the middle third of the page */
+.workshop-card {
+  width: 33vw;
+  max-width: 620px;
+  min-width: 420px;
+  margin: 2.5rem auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 1.6rem;
+  background: #fff;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+}
+
+/* Image on the left */
+.workshop-card__image {
+  flex: 0 0 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.workshop-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  display: block;
+}
+
+/* Text on the right */
+.workshop-card__content {
+  flex: 1;
+}
+
+.workshop-card__content h2 {
+  margin: 0 0 0.3rem 0;
+  font-size: 1.8rem;
+}
+
+.workshop-card__content h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #777;
+}
+
+.workshop-card__content p {
+  margin: 0;
+}
+
+/* Phone: stack image above text */
+@media (max-width: 700px) {
+  .workshop-card {
+    width: 90vw;
+    min-width: 0;
+    flex-direction: column;
+  }
+
+  .workshop-card__image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1.5 / 1;
+    flex: none;
+  }
+}
+</style>
 
 
 ## Full programme
