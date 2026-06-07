@@ -13,6 +13,9 @@ featured-img: lion.jpg
  
  Name 3
 
+## Workshop Details 
+
+
 
 ## Full programme
 
