@@ -37,7 +37,7 @@ featured-img: lion.jpg
       <div class="post-card__header">
         <h2>Alex Thornton</h2>
       </div>
-      <p>Blurb about Alex Thornton here.</p>
+      <p>Professor Alex Thornton is a Professor of Cognitive Evolution at the University of Exeter (Cornwall Campus), where he runs the Wild Cognition Research Group. His work seeks to understand how the challenges faced by animals in their natural environments shape their mental processes, how the ability to learn from others affects the behaviour of individuals and groups, and how culture itself evolves. His research incorporates approaches from evolutionary biology, psychology and anthropology using a range of different study systems. Current research focuses primarily on cognition and behaviour in wild jackdaws, the cognitive requirements of human culture and the application of cognitive research in conservation.</p>
     </div>
   </div>
 
