@@ -53,7 +53,7 @@ featured-img: lion.jpg
       <div class="post-card__header">
         <h2>Aurore Avargues-Weber</h2>
       </div>
-      <p>Short blurb about Aurore Avargues-Weber here.</p>
+      <p>Aurore Avarguès-Weber is a CNRS research director in cognitive ethology at the Centre for Research on Animal Cognition in Toulouse University, France. She is specialized in the comparative study of bee cognitive abilities. Awarded a CNRS bronze medal in 2019 and the prestigious "Rising Talent" international prize from the Women in Science Foundation (L'Oréal/UNESCO) in 2015, she has contributed to reveal the astonishing abstract reasoning abilities of bees, enabling them to grasp spatial and mathematical concepts or decode information provided by their fellow bees.</p>
     </div>
   </div>
 
