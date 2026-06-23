@@ -21,7 +21,7 @@ featured-img: lion.jpg
       <div class="post-card__header">
         <h2>Katie Slocombe</h2>
       </div>
-      <p>Short blurb about Katie Slocombe goes here.</p>
+      <p>Katie is a Professor in the Department of Psychology, University of York. Katie investigates communication and social cognition in non-human primates, dogs and children from different cultures.</p>
     </div>
   </div>
 
