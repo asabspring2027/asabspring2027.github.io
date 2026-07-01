@@ -164,8 +164,7 @@ featured-img: lion.jpg
     <h3>Workshop details / title goes here</h3>
 
     <p>
-      Write the blurb about the person and their workshop here. This can include
-      a short bio, what the workshop covers, and who it is suitable for.
+      Christian Nawroth investigates how farm animals perceive and interact with their physical and social environments to better understand their perspective in modern husbandry systems. Although his research focuses primarily on animal cognition and welfare, with the broader aim of improving the lives of animals under human care, he is also actively involved in promoting the accessibility, transparency, and dissemination of scientific knowledge. Stay tuned for further details regarding his workshop!
     </p>
   </div>
 </div> 
