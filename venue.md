@@ -5,8 +5,21 @@ permalink: /venue/
 featured-img: shane-rounce-205187
 ---
 
-## Where (including Hublets)
+#Our Conference Location: Portsmouth
+The Spring 2027 ASAB Conference will be taking place in our historic port in the south of England.
+
+## Conference Venues
 Where things will happen
+
+
+
+
+
+
+
+
+
+
 
 ## How to get there
 Plane: Maybe consider using other form of transportation
