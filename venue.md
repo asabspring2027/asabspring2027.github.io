@@ -149,7 +149,9 @@ The Spring 2027 ASAB Conference will be taking place in our historic port in the
 </style>
 
 ## What to see
-Suggestions
+Guildhall 
+Spinnaker Tower
+Isle of Wight
 
 ## How to get there
 Plane: Maybe consider using other form of transportation
@@ -164,6 +166,13 @@ Option 1
 Option 2
 
 Option 3
+
+## Where to Eat and Drink 
+
+- place next to spinaker tower
+- place that is lots of mini food places
+
+
 
 
 
