@@ -7,18 +7,18 @@ featured-img: shane-rounce-205187
 
 ## Prices
 
-Students: £TBC
-Non-students (no workshop): £TBC
-Non-students (workshop included): £TBC
+- Students: £TBC
+- Non-students (no workshop): £TBC
+- Non-students (workshop included): £TBC
 
 The attendance fee includes your registration fee, refreshments, lunches, and the conference social (TBC).
 To confirm attendence, please register through our portal, which includes the option for submission of a talk or poster by way of abstract submission (see the “Information for Presenters and Attendees” page). You will receive a confirmation e-mail once your form is complete and payment is confirmed.
 
 ## Submissions
 
-Registration deadline - TBC
-Abstract submission deadline - TBC
-Abstract announced - TBC
+- Registration deadline - TBC
+- Abstract submission deadline - TBC
+- Abstract announced - TBC
 
 ## ASAB Conference Grant
 
