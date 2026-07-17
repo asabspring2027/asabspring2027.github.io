@@ -21,7 +21,7 @@ featured-img: lion.jpg
       <div class="post-card__header">
         <h2>Katie Slocombe</h2>
       </div>
-      <p>Katie is a Professor in the Department of Psychology, University of York. Katie investigates communication and social cognition in non-human primates, dogs and children from different cultures.</p>
+      <p>Katie is a Professor in the Department of Psychology, University of York, having gained her PhD from the University of St Andrews. Katie investigates communication and social cognition in non-human primates, dogs and children from different cultures. Current projects include dog sensitivity to human communicative signals, cross-species and cross-cultural investigations into joint attention and joint commitment to joint actions as well as the ontogeny of multimodal signalling in wild chimpanzees.</p>
     </div>
   </div>
 
