@@ -10,7 +10,7 @@ featured-img: shane-rounce-205187
   The Spring 2027 ASAB Conference will be taking place in our historic port in the south of England.
 </p>
 
-<img src="assets/img/location-images/portsmouth.png" alt="Portsmouth waterfront" style="display:block; width:80%; max-width:1000px; height:auto; margin:30px auto;">
+<img src="assets/img/location-images/portsmouth.png" alt="Portsmouth waterfront" style="display:block; width:70%; max-width:1000px; height:auto; margin:30px auto;">
 
 ## Conference Venues
 <div class="committee-grid">
@@ -152,7 +152,7 @@ featured-img: shane-rounce-205187
 }
 </style>
 
-<h2 style="margin-top: 70px;">What to see</h2>
+<h2 style="margin-top: 50px;">What to see</h2>
 <ul>
   <li>
     <strong>Spinnaker Tower</strong> : A 170-metre landmark offering panoramic views across Portsmouth Harbour and the Solent River. Visit the Sky Bar for cocktails at sunset!
@@ -174,7 +174,7 @@ featured-img: shane-rounce-205187
     <strong>Airports</strong> : Southampton Airport is the closest to the city, whereas London Gatwick and London Heathrow offer great international travel options
   </li>
   <li>
-    <strong>Train</strong> : Gatwick Airport offers a direct hourly Southern or Thameslink train service to Portsmouth & Southsea, taking approximately 1 hour and 30 minutes. South Western Railways offers a direct service from Waterloo Station.
+    <strong>Train</strong> : Gatwick Airport offers a direct hourly Southern or Thameslink train service to Portsmouth & Southsea, taking approximately 1 hour and 30 minutes. South Western Railways offers a direct service from Waterloo.
   </li>
     <li>
     <strong>Driving</strong> : For convenient and central campus parking, use the Isambard Kingdom Brunel multi-storey car park. Gunwarf Quays also offers a discounted rate for students and staff commuting to Portsmouth.
