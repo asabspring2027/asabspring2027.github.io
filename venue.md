@@ -203,10 +203,7 @@ featured-img: shane-rounce-205187
     <strong>AirBnB</strong> : A range of self-catering options available
   </li>
   <li>
-    <strong>Portsmouth Historic Dockyard</strong> : Home to historic ships, museums and naval exhibitions.
-  </li>
-  <li>
-    <strong>Southsea</strong> : A lively seafront area with beaches, cafés and views across to the Isle of Wight.
+    <strong>Hotels</strong> : The Ibis, Travelodge and Holiday Inn are all within a 10-minute walk to the University
   </li>
 </ul>
 
