@@ -8,6 +8,16 @@ featured-img: shane-rounce-205187
 # Our Conference Location: Portsmouth
 The Spring 2027 ASAB Conference will be taking place in our historic port in the south of England.
 
+<p>
+  The Spring 2027 ASAB Conference will be taking place in our historic port in the south of England.
+</p>
+
+<img
+  src="assets/img/profile-pics/portsmouth.jpg"
+  alt="Portsmouth waterfront"
+  style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 30px auto;"
+>
+
 ## Conference Venues
 <div class="committee-grid">
 
@@ -154,7 +164,7 @@ Spinnaker Tower
 Isle of Wight
 
 ## How to get there
-Plane: Maybe consider using other form of transportation
+Nearest airports: XXXXX, XXXXX and xxxxxx
 
 Train: good luck!
 
