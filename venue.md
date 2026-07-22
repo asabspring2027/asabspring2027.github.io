@@ -190,10 +190,10 @@ featured-img: shane-rounce-205187
     <strong>Gunwarf Quays</strong> : A range of resturants available, with outdoor seating overlooking the marina.
   </li>
   <li>
-    <strong>Portsmouth Historic Dockyard</strong> : Home to historic ships, museums and naval exhibitions.
+    <strong>Outside-In</strong> : A warehouse-style venue featuring a range of independent street food traders and bars
   </li>
   <li>
-    <strong>Southsea</strong> : A lively seafront area with beaches, cafés and views across to the Isle of Wight.
+    <strong>Viet Quan</strong> : Vietnamese street food - a CCEP favourite!
   </li>
 </ul>
 
