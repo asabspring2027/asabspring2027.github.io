@@ -145,11 +145,7 @@ featured-img: lion.jpg
   }
 }
 </style>
-
-
-
-<h2 style="margin-top: 50px;"Workshop Details</h2>
-
+<h2 class="workshop-heading">Workshop Details</h2>
 
 <div class="workshop-card">
   <div class="workshop-card__image">
@@ -170,11 +166,15 @@ featured-img: lion.jpg
 </div> 
 
 <style>
+.workshop-heading {
+  margin-bottom: 4rem;
+}
+
 .workshop-card {
   width: 65vw;
   max-width: 1000px;
   min-width: 0;
-  margin: 2.5rem auto;
+  margin: 0 auto 2.5rem auto;
   display: flex;
   align-items: flex-start;
   gap: 2rem;
