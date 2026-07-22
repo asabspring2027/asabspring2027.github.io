@@ -10,11 +10,11 @@ The Spring 2027 ASAB Conference will be taking place in our historic port in the
 </p>
 
 <img
-  src="assets/img/profile-pics/portsmouth.png"
+  src="assets/img/location-images/portsmouth.png"
   alt="Portsmouth waterfront"
   style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 30px auto;"
 >
-
+<p>
 ## Conference Venues
 <div class="committee-grid">
 
