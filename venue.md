@@ -161,24 +161,19 @@ Spinnaker Tower
 Isle of Wight
 
 ## How to get there
-Nearest airports: XXXXX, XXXXX and xxxxxx
-
+Nearest airports: Southampton, London Gatwick and London Heathrow
 Train: good luck!
-
 Car: same
-
-## Where to stay 
-Option 1
-
-Option 2
-
-Option 3
+Hovercraft: coming from Isle of Wight
 
 ## Where to Eat and Drink 
 
 - place next to spinaker tower
 - place that is lots of mini food places
 
+## Where to stay 
+
+- accomodation ideas 
 
 
 
