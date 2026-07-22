@@ -10,7 +10,7 @@ featured-img: shane-rounce-205187
   The Spring 2027 ASAB Conference will be taking place in our historic port in the south of England.
 </p>
 
-<img src="assets/img/location-images/portsmouth.png" alt="Portsmouth waterfront" style="display:block; width:70%; max-width:1000px; height:auto; margin:30px auto;">
+<img src="assets/img/location-images/portsmouth.png" alt="Portsmouth waterfront" style="display:block; width:80%; max-width:1000px; height:auto; margin:30px auto;">
 
 ## Conference Venues
 <div class="committee-grid">
@@ -152,33 +152,63 @@ featured-img: shane-rounce-205187
 }
 </style>
 
-<h2 style="margin-top: 100px;">What to see</h2>
+<h2 style="margin-top: 70px;">What to see</h2>
 <ul>
   <li>
-    <strong>Spinnaker Tower</strong> – A 170-metre landmark offering panoramic views across Portsmouth Harbour and the Solent.
+    <strong>Spinnaker Tower</strong> : A 170-metre landmark offering panoramic views across Portsmouth Harbour and the Solent River. Visit the Sky Bar for cocktails at sunset!
+  </li>
+    <li>
+    <strong>Gunwarf Quays</strong> : A premium waterfront outlet in Portsmouth featuring over 90 designer stores, 30 international restaurants, and the iconic Spinnaker Tower.
   </li>
   <li>
-    <strong>Portsmouth Historic Dockyard</strong> – Home to historic ships, museums and naval exhibitions.
+    <strong>Portsmouth Historic Dockyard</strong> : Home to historic ships, museums and naval exhibitions.
   </li>
   <li>
-    <strong>Southsea</strong> – A lively seafront area with beaches, cafés and views across to the Isle of Wight.
+    <strong>Southsea</strong> : A lively seafront area with beaches, cafés and views across to the Isle of Wight.
   </li>
 </ul>
 
 ## How to get there
-Nearest airports: Southampton, London Gatwick and London Heathrow
-Train: good luck!
-Car: same
-Hovercraft: coming from Isle of Wight
+<ul>
+  <li>
+    <strong>Airports</strong> : Southampton Airport is the closest to the city, whereas London Gatwick and London Heathrow offer great international travel options
+  </li>
+  <li>
+    <strong>Train</strong> : Gatwick Airport offers a direct hourly Southern or Thameslink train service to Portsmouth & Southsea, taking approximately 1 hour and 30 minutes. South Western Railways offers a direct service from Waterloo Station.
+  </li>
+    <li>
+    <strong>Driving</strong> : For convenient and central campus parking, use the Isambard Kingdom Brunel multi-storey car park. Gunwarf Quays also offers a discounted rate for students and staff commuting to Portsmouth.
+  </li>
+  <li>
+    <strong>Hovercraft</strong> : 10 minutes from the Isle of Wight!
+  </li>
+</ul>
 
 ## Where to Eat and Drink 
-
-- place next to spinaker tower
-- place that is lots of mini food places
+<ul>
+    <li>
+    <strong>Gunwarf Quays</strong> : A range of resturants available, with outdoor seating overlooking the marina.
+  </li>
+  <li>
+    <strong>Portsmouth Historic Dockyard</strong> : Home to historic ships, museums and naval exhibitions.
+  </li>
+  <li>
+    <strong>Southsea</strong> : A lively seafront area with beaches, cafés and views across to the Isle of Wight.
+  </li>
+</ul>
 
 ## Where to stay 
-
-- accomodation ideas 
+<ul>
+    <li>
+    <strong>AirBnB</strong> : A range of self-catering options available
+  </li>
+  <li>
+    <strong>Portsmouth Historic Dockyard</strong> : Home to historic ships, museums and naval exhibitions.
+  </li>
+  <li>
+    <strong>Southsea</strong> : A lively seafront area with beaches, cafés and views across to the Isle of Wight.
+  </li>
+</ul>
 
 
 
