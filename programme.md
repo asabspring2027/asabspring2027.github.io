@@ -161,7 +161,7 @@ featured-img: lion.jpg
 
   <div class="workshop-card__content">
     <h2>Christian Nawroth</h2>
-    <h3>Workshop details / title goes here</h3>
+    <h3>Workshop details</h3>
 
     <p>
       Christian Nawroth investigates how farm animals perceive and interact with their physical and social environments to better understand their perspective in modern husbandry systems. Although his research focuses primarily on animal cognition and welfare, with the broader aim of improving the lives of animals under human care, he is also actively involved in promoting the accessibility, transparency, and dissemination of scientific knowledge. Stay tuned for further details regarding his workshop!
@@ -235,7 +235,7 @@ featured-img: lion.jpg
 }
 </style>
 
-## Full programme
+## Full programme - TBC
 
 | Day           | Time    | Topic   |
 | --------------| ------- |---------|
