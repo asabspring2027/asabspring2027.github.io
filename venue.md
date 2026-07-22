@@ -10,7 +10,7 @@ featured-img: shane-rounce-205187
   The Spring 2027 ASAB Conference will be taking place in our historic port in the south of England.
 </p>
 
-<img src="assets/img/location-images/portsmouth.png" alt="Portsmouth waterfront" style="display:block; width:100%; max-width:1000px; height:auto; margin:30px auto;">
+<img src="/assets/img/location-images/portsmouth.png" alt="Portsmouth waterfront" style="display:block; width:100%; max-width:1000px; height:auto; margin:30px auto;">
 
 ## Conference Venues
 <div class="committee-grid">
@@ -152,7 +152,7 @@ featured-img: shane-rounce-205187
 }
 </style>
 
-<h2 style="margin-top: 60px;">What to see</h2>
+<h2 style="margin-top: 100px;">What to see</h2>
 <ul>
   <li>
     <strong>Spinnaker Tower</strong> – A 170-metre landmark offering panoramic views across Portsmouth Harbour and the Solent.
