@@ -148,7 +148,7 @@ featured-img: lion.jpg
 
 
 
-## Workshop Details 
+<h2 style="margin-top: 50px;"Workshop Details</h2>
 
 
 <div class="workshop-card">
