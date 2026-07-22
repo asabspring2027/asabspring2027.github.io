@@ -27,7 +27,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Main Lecture Theatre</h2>
       </div>
-      <p>The XXXX building is where all talks shall be.</p>
+      <p>TBC: Where all talks shall be held.</p>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Poster Area</h2>
       </div>
-      <p>info about the location / area where the poster session will be.</p>
+      <p>TBC: Area where the poster session will be.</p>
     </div>
   </div>
 
@@ -51,7 +51,7 @@ featured-img: shane-rounce-205187
     <figure class="post-card__thumb">
       <img
         src="/assets/img/profile-pics/social_area.jpg"
-        alt="Social"
+        alt="Social Venue"
       />
     </figure>
 
@@ -59,7 +59,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Social</h2>
       </div>
-      <p>info about where the social event is going to be held.</p>
+      <p>TBC: Where the social event is going to be held.</p>
     </div>
   </div>
 
