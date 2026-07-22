@@ -153,9 +153,17 @@ featured-img: shane-rounce-205187
 </style>
 
 ## What to see
-Guildhall 
-Spinnaker Tower
-Isle of Wight
+<ul>
+  <li>
+    <strong>Spinnaker Tower</strong> – A 170-metre landmark offering panoramic views across Portsmouth Harbour and the Solent.
+  </li>
+  <li>
+    <strong>Portsmouth Historic Dockyard</strong> – Home to historic ships, museums and naval exhibitions.
+  </li>
+  <li>
+    <strong>Southsea</strong> – A lively seafront area with beaches, cafés and views across to the Isle of Wight.
+  </li>
+</ul>
 
 ## How to get there
 Nearest airports: Southampton, London Gatwick and London Heathrow
