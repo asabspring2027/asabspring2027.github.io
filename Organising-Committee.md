@@ -83,7 +83,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Sarah Salphati</h2>
       </div>
-      <p>Short blurb about Sarah Salphati goes here.</p>
+      <p>Sarah is a PhD student in the Comparative and Evolutionary Psychology Centre studying the evolution and development of facial expressions, with a particular focus on smiles and their primate homologues in humans and chimpanzees. She also really enjoys eating and doesn't like photos being taken of her ;) .</p>
     </div>
   </div>
 
@@ -163,7 +163,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Ester Herrmann</h2>
       </div>
-      <p>Short blurb about Ester Herrmann goes here.</p>
+      <p>Esther is a comparative psychologist whose research explores the evolutionary origins of human cognition. By comparing the cognitive abilities of humans and non-human great apes, she investigates the evolution of cooperation, self-control, and metacognition, while examining the cultural and developmental factors that shape the expression of these abilities.</p>
     </div>
   </div>
 
