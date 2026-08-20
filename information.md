@@ -16,7 +16,7 @@ featured-img: trb_carpintero_lg
 
     <td align="center">
       <a href="page2.md">
-        <img src="https://via.placeholder.com/250" width="150"><br>
+        <img src="/assets/img/posts/trb_iguana_thumb.jpg" width="150"><br>
         <strong>Information for Attendees</strong>
       </a>
     </td>
