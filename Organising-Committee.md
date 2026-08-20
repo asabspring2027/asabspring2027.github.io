@@ -147,7 +147,7 @@ featured-img: shane-rounce-205187
       <div class="post-card__header">
         <h2>Teresa Romero</h2>
       </div>
-      <p>Teresa's research focuses on the social and emotional skills that animals employ when making decisions about when, and with whom, to interact. She has explored aspects of sociality, conflict resolution, cooperation, and empathy-driven behaviours across a range of taxa, including carnivores, primates and rodents. She is also interested in applying fundamental knowledge in animal social behaviour to the welfare of both captive and wild animals through interdisciplinary research and the use of emerging technologies.</p>
+      <p>A co-director of the Macaca Maura Project, Teresa's research focuses on the social and emotional skills that animals employ when making decisions about when, and with whom, to interact. She is also interested in applying fundamental knowledge in animal social behaviour to the welfare of both captive and wild animals through interdisciplinary research and the use of emerging technologies.</p>
     </div>
   </div>
 
