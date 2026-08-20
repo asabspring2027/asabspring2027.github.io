@@ -2,7 +2,7 @@
 layout: page
 title: Information for Presenters
 permalink: /Info-presenters/
-featured-img: _img/lion.jpg
+featured-img: trb_ardilla_lg.jpg
 ---
 
 ## Abstract submission will open on **DD MM YYYY**
