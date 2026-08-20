@@ -8,7 +8,7 @@ featured-img: trb_carpintero_lg
 <table>
   <tr>
     <td align="center">
-      <a href="{{ '/information-presenters/' | relative_url }}">
+      <a href="{{ '/info-presenters/' | relative_url }}">
         <img src="/assets/img/posts/trb_iguana_md.jpg" width="250"><br>
         <strong>Information for Presenters</strong>
       </a>
