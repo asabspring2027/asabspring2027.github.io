@@ -2,7 +2,7 @@
 layout: page
 title: Information for Presenters & Attendees
 permalink: /information/
-featured-img: shane-rounce-205187
+featured-img: trb_carpintero_lg
 ---
 
 <table>
