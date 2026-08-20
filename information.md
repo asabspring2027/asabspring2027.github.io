@@ -9,7 +9,7 @@ featured-img: shane-rounce-205187
   <tr>
     <td align="center">
       <a href="Info-presenters">
-        <img src="_img/lion.jpg" width="250"><br>
+        <img src="post/trb_iguana_lg.jpg" width="250"><br>
         <strong>Information for Presenters</strong>
       </a>
     </td>
