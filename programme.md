@@ -5,7 +5,7 @@ permalink: /programme/
 featured-img: lion_lg
 ---
 
-## Plenary speakers 
+# Plenary speakers 
 
 <div class="committee-grid">
 
