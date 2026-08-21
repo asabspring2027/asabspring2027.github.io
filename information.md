@@ -7,21 +7,21 @@ featured-img: trb_carpintero_1920
 
 <div class="committee-grid">
 
-  <div class="post-card committee-card">
+  <a href="/Info-presenters/" class="post-card committee-card">
     <figure class="post-card__thumb">
-      <img
+        <img
         src="/assets/img/posts/trb_martinete_sm.jpg"
-        alt="Main Lecture Theatre"
+        alt="Information for Presenters"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Main Lecture Theatre</h2>
+        <h2>Information for Presenters</h2>
       </div>
-      <p>TBC: Where all talks shall be held.</p>
+      <p>All you need to know if you are presenting a talk or a poster.</p>
     </div>
-  </div>
+  </a>
 
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
