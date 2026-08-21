@@ -33,7 +33,7 @@ featured-img: trb_carpintero_1920
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Information for Presenters</h2>
+        <h2>Information for Attendees</h2>
       </div>
       <p>Important information for anyone attending the conference.</p>
     </div>
