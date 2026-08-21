@@ -23,37 +23,37 @@ featured-img: trb_carpintero_1920
     </div>
   </a>
 
-<div class="post-card committee-card">
+<a href="/Info-presenters/" class="post-card committee-card">
     <figure class="post-card__thumb">
-      <img
+        <img
         src="/assets/img/posts/trb_martinete_sm.jpg"
-        alt="Information for Attendees"
+        alt="Information for Presenters"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Information for Attendees</h2>
+        <h2>Information for Presenters</h2>
       </div>
-      <p>Please find on this page information regarding ASAB and/or the University of Portsmouth policy on code of conduct, equality, families, accessibility, and social media</p>
+      <p>All you need to know if you are presenting a talk or a poster.</p>
     </div>
-  </div>
+  </a>
 
-<div class="post-card committee-card">
+<a href="/Info-presenters/" class="post-card committee-card">
     <figure class="post-card__thumb">
-      <img
-        src="/assets/img/profile-pics/social_area.jpg"
-        alt="Social Venue"
+        <img
+        src="/assets/img/posts/trb_martinete_sm.jpg"
+        alt="Information for Presenters"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Social</h2>
+        <h2>Information for Presenters</h2>
       </div>
-      <p>TBC: Where the social event is going to be held.</p>
+      <p>All you need to know if you are presenting a talk or a poster.</p>
     </div>
-  </div>
+  </a>
 
 </div>
 
