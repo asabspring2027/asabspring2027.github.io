@@ -50,7 +50,7 @@ The following behaviours are not acceptable:
 }
 
 .info-presenters-image img {
-  width: 60%;
+  width: 80%;
   max-width: 600px;
   height: auto;
   display: inline-block;
