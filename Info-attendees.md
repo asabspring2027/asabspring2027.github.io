@@ -24,13 +24,6 @@ We ask all conference delegates to:
 -	Be mindful of others’ opportunities to contribute, particularly during discussions, and ensure that everyone has a reasonable opportunity to speak.
 
 
-<p class="info-presenters-image">
-  <img 
-    src="/assets/img/posts/trb_buitre_horz.jpg" 
-    alt="Information for attendees"
-  />
-</p>
-
 ## Unacceptable Behaviour
 
 The following behaviours are not acceptable:
@@ -38,6 +31,26 @@ The following behaviours are not acceptable:
 - Bullying, harassment, or intimidation. We operate a zero-tolerance policy towards such behaviours. This includes, but is not limited to, derogative o discriminatory comments relating to any protected categories, such as ethnicity, gender identity, sexual orientation, or disability.
 - Disrupting any aspect of the meeting, including interrupting speakers, presenters, or other participants.
 - Sexual harassment, unwanted sexual attention, or the sharing of sexually inappropriate or otherwise offensive images or material.
+
+## For delegates experiencing unacceptable behaviour
+
+If you experience behaviour that you believe breaches our Code of Conduct, please contact the conference organisers or one of the conference moderators. Conference organisers and moderators will be clearly identified by badges on the conference website. 
+
+If you would prefer to report an incident confidentially, you can contact the Meetings Secretary by email: 
+Dr Vivek Nityananda - meetings[@]asab.org  
+
+## Consequences
+Conference organisers and moderators will address reports of behaviour that breaches the conference Code of Conduct and may contact individuals who do not meet these expectations. We reserve the right to ask any delegate who breaches the Code of Conduct to leave the meeting. In serious or repeated cases, this may also include prohibiting attendance at future conferences. 
+
+
+<p class="info-presenters-image">
+  <img 
+    src="/assets/img/posts/trb_correlimos_horz.jpg" 
+    alt="Information for attendees"
+  />
+</p>
+
+
 
 
 <style>
