@@ -52,6 +52,14 @@ Conference organisers and moderators will address reports of behaviour that brea
 
 
 
+## Equality
+
+
+## Caring responsabilities
+
+
+## Social media
+
 
 <style>
 
