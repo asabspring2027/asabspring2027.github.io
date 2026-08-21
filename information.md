@@ -23,7 +23,7 @@ featured-img: trb_carpintero_1920
     </div>
   </a>
 
-<a href="/Info-presenters/" class="post-card committee-card">
+<a href="/Info-attendees/" class="post-card committee-card">
     <figure class="post-card__thumb">
         <img
         src="/assets/img/posts/trb_martinete_sm.jpg"
