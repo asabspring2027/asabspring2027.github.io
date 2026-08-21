@@ -10,7 +10,7 @@ featured-img: trb_carpintero_1920
   <a href="/Info-presenters/" class="post-card committee-card">
     <figure class="post-card__thumb">
         <img
-        src="/assets/img/posts/trb_martinete_sm.jpg"
+        src="/assets/img/posts/trb_iguana2_sm.jpg"
         alt="Information for Presenters"
       />
     </figure>
@@ -27,7 +27,7 @@ featured-img: trb_carpintero_1920
     <figure class="post-card__thumb">
         <img
         src="/assets/img/posts/trb_martinete_sm.jpg"
-        alt="Information for Presenters"
+        alt="Information for Attendees"
       />
     </figure>
 
@@ -35,23 +35,23 @@ featured-img: trb_carpintero_1920
       <div class="post-card__header">
         <h2>Information for Presenters</h2>
       </div>
-      <p>All you need to know if you are presenting a talk or a poster.</p>
+      <p>Important information for anyone attending the conference.</p>
     </div>
   </a>
 
-<a href="/Info-presenters/" class="post-card committee-card">
+<a href="/registration/" class="post-card committee-card">
     <figure class="post-card__thumb">
         <img
-        src="/assets/img/posts/trb_martinete_sm.jpg"
-        alt="Information for Presenters"
+        src="/assets/img/posts/trb_capuchinbb_sm.jpg"
+        alt="Registration"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Information for Presenters</h2>
+        <h2>Registration</h2>
       </div>
-      <p>All you need to know if you are presenting a talk or a poster.</p>
+      <p>To attend the conference, please register here.</p>
     </div>
   </a>
 
