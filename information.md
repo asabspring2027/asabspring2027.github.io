@@ -13,16 +13,17 @@ featured-img: trb_carpintero_1920
         src="/assets/img/posts/trb_iguana22_sm.jpg"
         alt="Information for Presenters"
       />
-    
-    <div class="committee-card__overlay">
-      <h2>Information for Presenters</h2>
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Information for Presenters</h2>
       </div>
       <p>All you need to know if you are presenting a talk or a poster.</p>
     </div>
-  </figure>
-
   </a>
 
+  
 <a href="/Info-attendees/" class="post-card committee-card">
     <figure class="post-card__thumb">
         <img
@@ -127,8 +128,8 @@ featured-img: trb_carpintero_1920
   margin: 0 !important;
 }
 
-/* Image ovelay for post-card*/
-.committee-card_image {
+/* Image overlay for post-card */
+/*.committee-card_image {
   position: relative;
   margin: 0;
   overflow: hidden;
