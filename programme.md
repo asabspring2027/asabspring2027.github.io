@@ -2,7 +2,7 @@
 layout: page
 title: Programme
 permalink: /programme/
-featured-img: lion.jpg
+featured-img: lion_lg
 ---
 
 ## Plenary speakers 
