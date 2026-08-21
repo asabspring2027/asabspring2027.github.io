@@ -10,7 +10,7 @@ featured-img: trb_carpintero_lg
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/main_room.jpg"
+        src="/assets/img/posts/trb_martinete_sm.jpg"
         alt="Main Lecture Theatre"
       />
     </figure>
@@ -26,16 +26,16 @@ featured-img: trb_carpintero_lg
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/poster_area.jpg"
-        alt="Poster Area"
+        src="/assets/img/posts/trb_martinete_sm.jpg"
+        alt="Information for Attendees"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Poster Area</h2>
+        <h2>Information for Attendees</h2>
       </div>
-      <p>TBC: Area where the poster session will be.</p>
+      <p>Please find on this page information regarding ASAB and/or the University of Portsmouth policy on code of conduct, equality, families, accessibility, and social media</p>
     </div>
   </div>
 
