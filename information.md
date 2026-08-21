@@ -2,7 +2,7 @@
 layout: page
 title: Information for Presenters & Attendees
 permalink: /information/
-featured-img: trb_carpintero_lg
+featured-img: trb_carpintero_1920
 ---
 
 <div class="committee-grid">
