@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 permalink: /registration/
-featured-img: shane-rounce-205187
+featured-img: jackal_lg
 ---
 
 ## Prices
