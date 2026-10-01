@@ -1,3 +1,4 @@
+
 ---
 layout: compress
 ---
@@ -26,6 +27,15 @@ layout: compress
       </div>
     </div>
 
+    <div class="home-intro">
+      <p>
+        Welcome to the 2027 Spring Conference of the Association for the Study of Animal Behaviour,
+        hosted by the Centre for Comparative and Evolutionary Psychology,
+        taking place at the University of Portsmouth between 7–9 April 2027.
+      </p>
+      <p><strong>Join us!</strong></p>
+    </div>
+
     <main class="site__content">
       <section class="blog">
         <div class="container">
@@ -35,14 +45,31 @@ layout: compress
             {% for post in site.posts %}
               {% include card.html %}
             {% endfor %}
-{% endcomment %}
+            {% endcomment %}
+
             <!-- {% include pagination.html %} -->
+
           </div>
         </div>
       </section>
     </main>
 
     {% include footer.html %}
+
+    <style>
+      .home-intro {
+        max-width: 900px;
+        margin: 50px auto;
+        padding: 0 30px;
+        text-align: center;
+        font-size: 1.3rem;
+        line-height: 1.6;
+      }
+
+      .home-intro p {
+        margin: 0 0 1rem 0;
+      }
+    </style>
 
   </body>
 
