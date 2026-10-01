@@ -8,10 +8,17 @@ featured-img: trb_ardilla_lg
 ## Abstract submission will open on **DD MM YYYY**
 
 Your work can be presented at ASAB Spring 2027 in one of these three formats:
-•	Standard talk
-•	Flash talk
-•	Poster
-
+<ul>
+    <li>
+    Standard talk
+  </li>
+  <li>
+    Flash talk
+  </li>
+  <li>
+    Poster
+  </li>
+</ul>
 
 ### Selection process
 Presentations will be selected based on the submitted title and abstract only (blind to speaker identity), which should be clear and concise (200 words maximum) and consist of:
