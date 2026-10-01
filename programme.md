@@ -71,6 +71,7 @@ featured-img: twolion_lg
   grid-template-columns: repeat(3, minmax(280px, 1fr)) !important;
   gap: 2.2rem !important;
   margin-top: 3rem !important;
+  margin-bottom: 40px !important;
 
   /* similar width to the homepage card area */
   width: 78vw !important;
