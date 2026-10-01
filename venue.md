@@ -59,8 +59,15 @@ featured-img: drinkingele_lg
       <div class="post-card__header">
         <h2>Social</h2>
       </div>
-      <p>Southsea Beach Café: Join us on Thursday 8th April for an evening of fun! With capacity for 150 students, come and dance the night away by the sea with a buffet-style meal and a free welcome drink. Submit song requests using the link below - bonus points if it links to your research!
-      https://heardthebeat.co.uk/university-of-portsmouth-08-04-26/ 
+      <p><p>
+  Southsea Beach Café: Join us on Thursday 8th April for an evening of fun! 
+  With capacity for 150 students, come and dance the night away by the sea with a buffet-style meal and a free welcome drink.
+  Submit song requests using the link below – bonus points if it links to your research!
+  <br><br>
+  <a href="https://heardthebeat.co.uk/university-of-portsmouth-08-04-26/" target="_blank">
+    Submit your song request
+  </a>
+</p>
       
       .</p>
     </div>
