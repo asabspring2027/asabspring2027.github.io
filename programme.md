@@ -241,16 +241,15 @@ featured-img: twolion_lg
     flex: none;
   }
 }
+  table th:first-child,
+table td:first-child {
+  width: 180px;
+  }
 </style>
 
 # Conference Programmes
 
 ## Summary Programme:
-
-table th:first-child,
-table td:first-child {
-  width: 180px;
-}
 
 |     Day    | Summary                                                              |
 | -----------|----------------------------------------------------------------------|
