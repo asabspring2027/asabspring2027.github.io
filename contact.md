@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-featured-img: shane-rounce-205187
+featured-img: buffalo_lg
 ---
 
 Check the form below
