@@ -194,7 +194,7 @@ featured-img: twolion_lg
 
 .workshop-card__image {
   flex: 0 0 260px;
-  height: 190px;
+  height: 300px;
   overflow: hidden;
   border-radius: 4px;
 }
