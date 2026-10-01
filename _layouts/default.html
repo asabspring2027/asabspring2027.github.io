@@ -12,8 +12,14 @@ layout: compress
     {% if site.google_tag_manager %}
 
       <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <noscript>
+        <iframe
+          src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+          height="0"
+          width="0"
+          style="display:none;visibility:hidden">
+        </iframe>
+      </noscript>
       <!-- End Google Tag Manager (noscript) -->
 
     {% endif %}
@@ -33,33 +39,14 @@ layout: compress
         hosted by the Centre for Comparative and Evolutionary Psychology,
         taking place at the University of Portsmouth between 7–9 April 2027.
       </p>
-      <p><strong>Join us!</strong></p>
+
+      <p>
+        <strong>Join us!</strong>
+      </p>
     </div>
 
-<main class="site__content">
-
-  <div style="
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 55px 30px;
-    text-align: center;
-    font-size: 1.3rem;
-    line-height: 1.6;
-  ">
-
-    <p>
-      Welcome to the 2027 Spring Conference of the Association for the Study of Animal Behaviour,
-      hosted by the Centre for Comparative and Evolutionary Psychology,
-      taking place at the University of Portsmouth between 7–9 April 2027.
-    </p>
-
-    <p style="margin-top: 20px;">
-      <strong>Join us!</strong>
-    </p>
-
-  </div>
-
-</main>
+    <main class="site__content">
+    </main>
 
     {% include footer.html %}
 
