@@ -203,7 +203,7 @@ featured-img: twolion_lg
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center center;
   display: block;
 }
 
