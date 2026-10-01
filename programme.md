@@ -247,6 +247,11 @@ featured-img: twolion_lg
 
 ## Summary Programme:
 
+table th:first-child,
+table td:first-child {
+  width: 180px;
+}
+
 |     Day    | Summary                                                              |
 | -----------|----------------------------------------------------------------------|
 | 07/04/2027 | Workshop Day!                                                        |
