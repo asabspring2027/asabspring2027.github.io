@@ -5,6 +5,8 @@ permalink: /registration/
 featured-img: babybaboon_lg
 ---
 
+# Registration link coming soon!
+
 ## Prices
 
 - Students: £TBC
