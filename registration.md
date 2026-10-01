@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 permalink: /registration/
-featured-img: jackal_lg
+featured-img: babybaboon_lg
 ---
 
 ## Prices
