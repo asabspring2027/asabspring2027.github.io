@@ -18,16 +18,16 @@ featured-img: drinkingele_lg
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/main_room.jpg"
+        src="/assets/img/profile-pics/portland.jpg"
         alt="Main Lecture Theatre"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Main Lecture Theatre</h2>
+        <h2>Lectures & Breakouts</h2>
       </div>
-      <p>TBC: Where all talks shall be held.</p>
+      <p>All talks are due to be held in the University of Portsmouth's Portland Building. Plenary lectures to five-minute flash talks will be split between the Atrium, and Rooms PO 1.74, 0.28, 0.41, 1.44, 1.51, 1.66 and 1.67. Room locations are to be announced in the full programme.</p>
     </div>
   </div>
 
@@ -57,7 +57,7 @@ featured-img: drinkingele_lg
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Social</h2>
+        <h2>Social Evening</h2>
       </div>
       <p><p>
   Southsea Beach Café: Join us on Thursday 8th April for an evening of fun! 
