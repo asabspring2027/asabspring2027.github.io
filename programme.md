@@ -235,12 +235,14 @@ featured-img: twolion_lg
 }
 </style>
 
-## Full programme - TBC
+## Full programme - To Be Confirmed
+# Brief Programme:
 
-| Day           | Time    | Topic   |
-| --------------| ------- |---------|
-| 07/04/2027    |         |         |
-| 08/04/2027    |         |         |
-| 09/04/2027    |         |         |
+|     Day    |  Time |  Topic  | Location |
+| -----------|-------|---------|----------|
+| 07/04/2027 |       |         |          |
+| 08/04/2027 |       |         |          |
+| 09/04/2027 |       |         |          |
 
-Include link to pdf
+# Full Programme including abstracts and venue map:
+PDF link coming soon
