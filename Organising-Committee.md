@@ -2,7 +2,7 @@
 layout: page
 title: Organising Committee
 permalink: /Organising-Committee/
-featured-img: shane-rounce-205187
+featured-img: zebra_lg
 ---
 
 <div class="committee-grid">
