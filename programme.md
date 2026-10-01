@@ -150,6 +150,7 @@ featured-img: twolion_lg
 
 # Workshop details 
 
+
 <div class="workshop-card">
   <div class="workshop-card__image">
     <img
@@ -244,7 +245,7 @@ featured-img: twolion_lg
 # Full programme - To Be Confirmed
 ## Brief Programme:
 
-|     Day    |  Time |  Topic  | Location |
+|     Day    |  Time |  Event  | Location |
 | -----------|-------|---------|----------|
 | 07/04/2027 |       |         |          |
 | 08/04/2027 |       |         |          |
