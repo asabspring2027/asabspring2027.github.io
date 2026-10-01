@@ -2,7 +2,7 @@
 layout: page
 title: Information for Attendees
 permalink: /Info-attendees/
-featured-img: trb_mili2_lg
+featured-img: jackal_lg
 ---
 
 Please find on this page information regarding ASAB and/or the University of Portsmouth policy on code of conduct, equality, families, accessibility, and social media.
