@@ -244,6 +244,7 @@ featured-img: twolion_lg
   table th:first-child,
 table td:first-child {
   width: 180px;
+  text-align: center;
   }
 </style>
 
