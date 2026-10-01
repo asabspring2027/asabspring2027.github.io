@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-featured-img: buffalo_lg
+featured-img: hippo_lg
 ---
 
 Check the form below
