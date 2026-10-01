@@ -19,7 +19,7 @@ featured-img: zebra_lg
       <div class="post-card__header">
         <h2>Marine Joly</h2>
       </div>
-      <p>Short blurb about Marine Joly goes here.</p>
+      <p>Marine’s research focuses on the evolution of primate behaviour and cognition, with particular interests in sociality, cognitive styles, socioecology, foraging decisions and executive functions. She conducts comparative research in collaboration with zoo-based and international field partners, including projects in Madagascar and Indonesia, and contributes to large collaborative research initiatives such as ManyPrimates, MacaqueNet, ManyManys and the CONNECT partnership..</p>
     </div>
   </div>
 
