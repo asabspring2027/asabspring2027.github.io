@@ -22,11 +22,23 @@ Your work can be presented at ASAB Spring 2027 in one of these three formats:
 
 ### Selection process
 Presentations will be selected based on the submitted title and abstract only (blind to speaker identity), which should be clear and concise (200 words maximum) and consist of:
-•	Brief background
-•	A clear question / aim
-•	Brief methodology
-•	Overall results
-•	Conclusions / significance
+<ul>
+    <li>
+    Brief background
+  </li>
+  <li>
+    A clear question / aim
+  </li>
+  <li>
+    Brief methodology
+ </li>
+  <li>
+    Overall results
+  </li>
+  <li>
+      Conclusions / significance
+  </li>
+</ul>
 
 Please note that while we have limited space for talks, rejected talk submissions might be offered a poster slot. Please indicate in the registration form if you would like to give a flash talk along with your poster.
 
