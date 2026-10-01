@@ -144,8 +144,11 @@ featured-img: twolion_lg
     width: 90vw !important;
   }
 }
+
 </style>
-<h2 class="workshop-heading">Workshop Details</h2>
+
+
+# Workshop details 
 
 <div class="workshop-card">
   <div class="workshop-card__image">
@@ -160,7 +163,10 @@ featured-img: twolion_lg
     <h3>Workshop Lead</h3>
 
     <p>
-      Christian Nawroth investigates how farm animals perceive and interact with their physical and social environments to better understand their perspective in modern husbandry systems. Although his research focuses primarily on animal cognition and welfare, with the broader aim of improving the lives of animals under human care, he is also actively involved in promoting the accessibility, transparency, and dissemination of scientific knowledge. Stay tuned for further details regarding his workshop!
+      Christian Nawroth investigates how farm animals perceive and interact with their physical and social environments to better understand their perspective in modern husbandry systems. Although his research focuses primarily on animal cognition and welfare, with the broader aim of improving the lives of animals under human care, he is also actively involved in promoting the accessibility, transparency, and dissemination of scientific knowledge. 
+    
+    Stay tuned for further details regarding his workshop!
+    
     </p>
   </div>
 </div> 
@@ -235,8 +241,8 @@ featured-img: twolion_lg
 }
 </style>
 
-## Full programme - To Be Confirmed
-# Brief Programme:
+# Full programme - To Be Confirmed
+## Brief Programme:
 
 |     Day    |  Time |  Topic  | Location |
 | -----------|-------|---------|----------|
@@ -244,5 +250,5 @@ featured-img: twolion_lg
 | 08/04/2027 |       |         |          |
 | 09/04/2027 |       |         |          |
 
-# Full Programme including abstracts and venue map:
+## Full Programme including abstracts and venue map:
 PDF link coming soon
