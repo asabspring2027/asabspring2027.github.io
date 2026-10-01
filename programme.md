@@ -243,8 +243,17 @@ featured-img: twolion_lg
 }
 </style>
 
-# Full programme - To Be Confirmed
-## Brief Programme:
+# Conference Programmes
+
+## Summary Programme:
+
+|     Day    | Summary                                                              |
+| -----------|----------------------------------------------------------------------|
+| 07/04/2027 | Workshop Day!                                                        |
+| 08/04/2027 | Conference Day 1: Talks and posters, with evening social             |         
+| 09/04/2027 | Conference Day 2: Talks and posters, with awards and closing remarks |   
+
+## Brief Programme: TBC
 
 |     Day    |  Time |  Event  | Location |
 | -----------|-------|---------|----------|
@@ -252,5 +261,6 @@ featured-img: twolion_lg
 | 08/04/2027 |       |         |          |
 | 09/04/2027 |       |         |          |
 
-## Full Programme including abstracts and venue map:
+
+## Full Programme including abstracts and venue map: TBC
 PDF link coming soon
