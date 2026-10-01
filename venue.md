@@ -2,7 +2,7 @@
 layout: page
 title: Venue
 permalink: /venue/
-featured-img: babyele_lg
+featured-img: drinkingele_lg
 ---
 
 # Our Conference Location: Portsmouth
