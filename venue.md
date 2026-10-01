@@ -25,7 +25,7 @@ featured-img: drinkingele_lg
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Lectures & Breakouts</h2>
+        <h2>Lectures & Breakout Rooms</h2>
       </div>
       <p>All talks are due to be held in the University of Portsmouth's Portland Building. Plenary lectures to five-minute flash talks will be split between the Atrium, and Rooms PO 1.74, 0.28, 0.41, 1.44, 1.51, 1.66 and 1.67. Room locations are to be announced in the full programme.</p>
     </div>
