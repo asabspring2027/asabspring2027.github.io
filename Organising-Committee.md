@@ -10,7 +10,7 @@ featured-img: zebra_lg
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/marine-joly.jpg"
+        src="/assets/img/profile-pics/marine.jpg"
         alt="Marine Joly"
       />
     </figure>
