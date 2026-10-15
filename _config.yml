@@ -2,9 +2,8 @@
 title: ASAB Spring Conference 2027 # your site title
 author: CCEP # You :P
 description: > # Meta description of Homepage
-  Welcome to the 2027 Spring Conference of the Association for the Study of Animal Behaviour.
-  Hosted by the Centre for Comparative and Evolutionary Psychology,
-  taking place at the Univeristy of Portsmouth betweem 7-9 April 2027.
+  Welcome to the 2027 Spring Conference of the Association for the Study of Animal Behaviour! This year it is hosted by the Centre for Comparative and Evolutionary Psychology,
+  taking place at the Univeristy of Portsmouth between 7-9 April 2027.
 #baseurl: "/ASAB2027" # the subpath of your site, e.g. /blog
 url: "https://asabspring2027.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
