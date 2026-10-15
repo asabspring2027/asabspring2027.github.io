@@ -67,7 +67,7 @@ featured-img: zebra_lg
       <div class="post-card__header">
         <h2>Rachel Thomson</h2>
       </div>
-      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict in Botswana. She is studying wild elephant curiosity to explore if specific behavioural traits are associated with the age-sex cohorts that crop-raid, and investigating zoo elephant problem-solving behaviour using puzzle boxes - to apply elephant behaviour research to conservation. She is also validating a captive elephant personality questionnaire for the Elephant Welfare Group.</p>
+      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict in Botswana. She is studying wild elephant curiosity to explore if specific behavioural traits are associated with the age-sex cohorts that enter human landscapes, and investigating zoo elephant problem-solving behaviour using puzzle boxes - to apply elephant behaviour research to conservation.</p>
     </div>
   </div>
 
