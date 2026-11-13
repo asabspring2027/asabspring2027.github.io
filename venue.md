@@ -205,6 +205,9 @@ featured-img: drinkingele_lg
   <li>
     <strong>Viet Quan:</strong> Vietnamese street food - a CCEP favourite!
   </li>
+  <li>
+    <strong>[Natty's Jerk](https://www.nattysjerk.com/):</strong> Caribbean experience, including the beach at the back - another CCEP favourite!
+  </li>
 </ul>
 
 ## Where to stay 
