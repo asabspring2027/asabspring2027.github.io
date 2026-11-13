@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sleek Theme
+title: ASAB Spring Conference 2027
 ---
