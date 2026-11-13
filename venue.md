@@ -203,7 +203,7 @@ featured-img: drinkingele_lg
     <strong>Outside-In:</strong> A warehouse-style venue featuring a range of independent street food traders and bars
   </li>
   <li>
-    <strong>Viet Quan:</strong> Vietnamese street food - a CCEP favourite!
+    <strong><a href="https://www.viet-quan.co.uk/" target="_blank" rel="noopener noreferrer">Viet Quan</a>:</strong> Vietnamese street food - a CCEP favourite!
   </li>
   <li>
     <strong><a href="https://www.nattysjerk.com/" target="_blank" rel="noopener noreferrer">Natty's Jerk</a>:</strong> Caribbean experience, including the beach at the back - another CCEP favourite!
