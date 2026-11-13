@@ -161,7 +161,7 @@ featured-img: zebra_lg
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Ester Herrmann</h2>
+        <h2>Esther Herrmann</h2>
       </div>
       <p>Esther is a comparative psychologist whose research explores the evolutionary origins of human cognition. By comparing the cognitive abilities of humans and non-human great apes, she investigates the evolution of cooperation, self-control, and metacognition, while examining the cultural and developmental factors that shape the expression of these abilities.</p>
     </div>
