@@ -197,7 +197,7 @@ featured-img: drinkingele_lg
 ## Where to Eat and Drink 
 <ul>
     <li>
-    <strong>Gunwarf Quays:</strong> A range of resturants available, with outdoor seating overlooking the marina.
+      <strong><a href="https://www.gunwharf-quays.com/en" target="_blank" rel="noopener noreferrer">Gunwarf Quays</a>:</strong> A range of resturants available, with outdoor seating overlooking the marina.
   </li>
   <li>
     <strong><a href="https://www.visitportsmouth.co.uk/listing/outside-in-food-court/173627101/" target="_blank" rel="noopener noreferrer">Outside-In</a>:</strong> A warehouse-style venue featuring a range of independent street food traders and bars
