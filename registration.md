@@ -11,10 +11,10 @@ To confirm your attendance, send money to the university at this link and comple
 
 ## Key Dates
 
-- Registration and abstract submissions opens on: 14th December
-- Abstract submission deadline: 15th February 
-- Abstract announced: 15th March
-- Registration closes: 22nd March
+- Registration and abstract submissions opens on: 14th December 2026
+- Abstract submission deadline: 15th February 2027
+- Abstract announced: 15th March 2027
+- Registration closes: 22nd March 2027
 
 ## Prices
 
