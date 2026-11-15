@@ -26,4 +26,4 @@ The attendance fee includes your registration fee, refreshments, lunches, and th
 
 ## ASAB Conference Grant
 
-To encourage attendance at ASAB conferences, the Society awards Conference Attendance Grants of up to £500 to standard applicants, and up to £500 to Developing Country Applicants. The award provides a contribution towards the cost of registration, accommodation, and meals, as well as the cost of travel to and from the conference. Please see the ASAB Conference Attendance Grants page for full details of the eligibility criteria and application process.
+To encourage attendance at ASAB conferences, the Society awards Conference Attendance Grants of up to £500 to standard applicants, and up to £500 to Developing Country Applicants. The award provides a contribution towards the cost of registration, accommodation, and meals, as well as the cost of travel to and from the conference. Please see the ASAB Conference Attendance Grants page [(here!)] https://www.asab.org/conference-grants for full details of the eligibility criteria and application process.
