@@ -122,22 +122,6 @@ featured-img: zebra_lg
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/rachel-thomson2.jpg"
-        alt="Rachel Thomson"
-      />
-    </figure>
-
-    <div class="post-card__inner committee-card__inner">
-      <div class="post-card__header">
-        <h2>Rachel Thomson</h2>
-      </div>
-      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict in Botswana. She is studying wild elephant curiosity to explore if specific behavioural traits are associated with the age-sex cohorts that enter human landscapes, and investigating zoo elephant problem-solving behaviour using puzzle boxes - to apply elephant behaviour research to conservation.</p>
-    </div>
-  </div>
-
-<div class="post-card committee-card">
-    <figure class="post-card__thumb">
-      <img
         src="/assets/img/profile-pics/sarah-salphati.jpg"
         alt="Sarah Salphati"
       />
@@ -148,6 +132,22 @@ featured-img: zebra_lg
         <h2>Sarah Salphati</h2>
       </div>
       <p>Sarah is a PhD student in the Comparative and Evolutionary Psychology Centre studying the evolution and development of facial expressions, with a particular focus on smiles and their primate homologues in humans and chimpanzees. She also really enjoys eating and doesn't like photos being taken of her ;) .</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/rachel-thomson2.jpg"
+        alt="Rachel Thomson"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Rachel Thomson</h2>
+      </div>
+      <p>Rachel is a second year PhD student researching elephant cognition, personality and human-elephant conflict in Botswana. She is studying wild elephant curiosity to explore if specific behavioural traits are associated with the age-sex cohorts that enter human landscapes, and investigating zoo elephant problem-solving behaviour using puzzle boxes - to apply elephant behaviour research to conservation.</p>
     </div>
   </div>
 
