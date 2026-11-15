@@ -7,10 +7,42 @@ featured-img: zebra_lg
 
 <div class="committee-grid">
 
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/ester-herrmann.jpg"
+        alt="Ester Herrmann"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Esther Herrmann</h2>
+      </div>
+      <p>Esther is a comparative psychologist whose research explores the evolutionary origins of human cognition. By comparing the cognitive abilities of humans and non-human great apes, she investigates the evolution of cooperation, self-control, and metacognition, while examining the cultural and developmental factors that shape the expression of these abilities.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/juliane-kaminski.jpg"
+        alt="Juliane Kaminski"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Juliane Kaminski</h2>
+      </div>
+      <p>Juliane Kaminski is an Associate Professor in Comparative Psychology. Her main research interest is the evolution of human sociality - with special interests in an individual’s understanding of others’ perception, knowledge, intentions, desires and beliefs. She conducts research concerning cooperation and communication among individuals using a comparative approach, focusing on comparisons bewteen humans and great apes and domesticated dogs.</p>
+    </div>
+  </div>
+
   <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/marine.jpg"
+        src="/assets/img/profile-pics/marine-joly.jpg"
         alt="Marine Joly"
       />
     </figure>
@@ -20,6 +52,22 @@ featured-img: zebra_lg
         <h2>Marine Joly</h2>
       </div>
       <p>Marine’s research focuses on the evolution of primate behaviour and cognition, with particular interests in sociality, cognitive styles, socioecology, foraging decisions and executive functions. She conducts comparative research in collaboration with zoo-based and international field partners, including projects in Madagascar and Indonesia, and contributes to large collaborative research initiatives such as ManyPrimates, MacaqueNet, ManyManys and the CONNECT partnership.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/jerome-micheletta.jpg"
+        alt="Jerome Micheletta"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Jerome Micheletta</h2>
+      </div>
+      <p>A co-director of the Macaca Nigra project, Jerome Micheletta's research focuses on the evolution of social communication. He is interested in the link between social complexity and communication complexity, studying the communication system of the socially tolerant and understudied crested macaque. His research combines observations of wild animals with cognitive experiments in captive populations.</p>
     </div>
   </div>
 
@@ -42,16 +90,32 @@ featured-img: zebra_lg
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/profile-pics/juliane-kaminski.jpg"
-        alt="Juliane Kaminski"
+        src="/assets/img/profile-pics/leanne-proops.jpg"
+        alt="Leanne Proops"
       />
     </figure>
 
     <div class="post-card__inner committee-card__inner">
       <div class="post-card__header">
-        <h2>Juliane Kaminski</h2>
+        <h2>Leanne Proops</h2>
       </div>
-      <p>Juliane Kaminski is an Associate Professor in Comparative Psychology. Her main research interest is the evolution of human sociality - with special interests in an individual’s understanding of others’ perception, knowledge, intentions, desires and beliefs. She conducts research concerning cooperation and communication among individuals using a comparative approach, focusing on comparisons bewteen humans and great apes and domesticated dogs.</p>
+      <p>Leanne Proops is Professor of Animal Behaviour and Welfare at the University of Portsmouth. Her research spans animal cognition, behaviour, and welfare, particularly in horses, donkeys, and their hybrids. Her particular interests lie in how animals perceive and respond to their social world, from everyday interactions to responses to social separation and death. She also explores how relationships between humans, animals, and the environment influence domestic animal welfare.</p>
+    </div>
+  </div>
+
+<div class="post-card committee-card">
+    <figure class="post-card__thumb">
+      <img
+        src="/assets/img/profile-pics/teresa-romero.jpg"
+        alt="Teresa Romero"
+      />
+    </figure>
+
+    <div class="post-card__inner committee-card__inner">
+      <div class="post-card__header">
+        <h2>Teresa Romero</h2>
+      </div>
+      <p>A co-director of the Macaca Maura Project, Teresa's research focuses on the social and emotional skills that animals employ when making decisions about when, and with whom, to interact. She is also interested in applying fundamental knowledge in animal social behaviour to the welfare of both captive and wild animals through interdisciplinary research and the use of emerging technologies.</p>
     </div>
   </div>
 
@@ -100,70 +164,6 @@ featured-img: zebra_lg
         <h2>Vasco Honigford-Martins</h2>
       </div>
       <p>Vasco is a second year PhD student exploring the intersection of wildlife behaviour, plastic pollution, and human perspectives of primate behaviour in Indonesia. His interdisciplinary research examines moor macaque interactions with plastic waste, human perceptions of wildlife–waste interactions, and arts-based approaches to raise awareness.</p>
-    </div>
-  </div>
-
-<div class="post-card committee-card">
-    <figure class="post-card__thumb">
-      <img
-        src="/assets/img/profile-pics/leanne-proops.jpg"
-        alt="Leanne Proops"
-      />
-    </figure>
-
-    <div class="post-card__inner committee-card__inner">
-      <div class="post-card__header">
-        <h2>Leanne Proops</h2>
-      </div>
-      <p>Leanne Proops is Professor of Animal Behaviour and Welfare at the University of Portsmouth. Her research spans animal cognition, behaviour, and welfare, particularly in horses, donkeys, and their hybrids. Her particular interests lie in how animals perceive and respond to their social world, from everyday interactions to responses to social separation and death. She also explores how relationships between humans, animals, and the environment influence domestic animal welfare.</p>
-    </div>
-  </div>
-
-<div class="post-card committee-card">
-    <figure class="post-card__thumb">
-      <img
-        src="/assets/img/profile-pics/jerome-micheletta.jpg"
-        alt="Jerome Micheletta"
-      />
-    </figure>
-
-    <div class="post-card__inner committee-card__inner">
-      <div class="post-card__header">
-        <h2>Jerome Micheletta</h2>
-      </div>
-      <p>A co-director of the Macaca Nigra project, Jerome Micheletta's research focuses on the evolution of social communication. He is interested in the link between social complexity and communication complexity, studying the communication system of the socially tolerant and understudied crested macaque. His research combines observations of wild animals with cognitive experiments in captive populations.</p>
-    </div>
-  </div>
-
-<div class="post-card committee-card">
-    <figure class="post-card__thumb">
-      <img
-        src="/assets/img/profile-pics/teresa-romero.jpg"
-        alt="Teresa Romero"
-      />
-    </figure>
-
-    <div class="post-card__inner committee-card__inner">
-      <div class="post-card__header">
-        <h2>Teresa Romero</h2>
-      </div>
-      <p>A co-director of the Macaca Maura Project, Teresa's research focuses on the social and emotional skills that animals employ when making decisions about when, and with whom, to interact. She is also interested in applying fundamental knowledge in animal social behaviour to the welfare of both captive and wild animals through interdisciplinary research and the use of emerging technologies.</p>
-    </div>
-  </div>
-
-<div class="post-card committee-card">
-    <figure class="post-card__thumb">
-      <img
-        src="/assets/img/profile-pics/ester-herrmann.jpg"
-        alt="Ester Herrmann"
-      />
-    </figure>
-
-    <div class="post-card__inner committee-card__inner">
-      <div class="post-card__header">
-        <h2>Esther Herrmann</h2>
-      </div>
-      <p>Esther is a comparative psychologist whose research explores the evolutionary origins of human cognition. By comparing the cognitive abilities of humans and non-human great apes, she investigates the evolution of cooperation, self-control, and metacognition, while examining the cultural and developmental factors that shape the expression of these abilities.</p>
     </div>
   </div>
 
