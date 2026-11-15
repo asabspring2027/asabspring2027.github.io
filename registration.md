@@ -7,6 +7,15 @@ featured-img: babybaboon_lg
 
 # Registration link coming soon!
 
+To confirm your attendance, send money to the university at this link and complete the online registration form, which includes the option for submission of abstract for talk, and/or poster presentation (see "Information for presenters" on the "Information" page on this website). You will receive a confirmation e-mail once your form is complete and payment is confirmed.
+
+## Key Dates
+
+- Registration and abstract submissions opens on: 14th December
+- Abstract submission deadline: 15th February 
+- Abstract announced: 15th March
+- Registration closes: 22nd March
+
 ## Prices
 
 - Students: £TBC
@@ -14,13 +23,6 @@ featured-img: babybaboon_lg
 - Non-students (workshop included): £TBC
 
 The attendance fee includes your registration fee, refreshments, lunches, and the conference social (TBC).
-To confirm attendence, please register through our portal, which includes the option for submission of a talk or poster by way of abstract submission (see the “Information for Presenters and Attendees” page). You will receive a confirmation e-mail once your form is complete and payment is confirmed.
-
-## Submissions
-
-- Registration deadline - TBC
-- Abstract submission deadline - TBC
-- Abstract announced - TBC
 
 ## ASAB Conference Grant
 
