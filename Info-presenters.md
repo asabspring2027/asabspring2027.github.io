@@ -5,7 +5,7 @@ permalink: /Info-presenters/
 featured-img: trb_ardilla_lg
 ---
 
-## Abstract submission will open on **DD MM YYYY**
+## Abstract submission will open from ** 14th December 2026 - 15th February 2027 **
 
 Your work can be presented at ASAB Spring 2027 in one of these two formats:
 <ul>
@@ -40,7 +40,7 @@ Presentations will be selected based on the submitted title (12 words maximum) a
 Please note that while we have limited space for standard talks, rejected talk submissions might be offered a poster slot. Please indicate in the registration form if you would like to be considered for a poster if not successful for an oral presentation.
 
 We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.
-The deadline for abstract is February 15th 2027.
+The deadline for abstract is <strong>February 15th 2027<strong>.
 
 ### Talks
 Talks should be 12 minutes long, which allows 3 minutes for questions and discussion as each slot is 15 minutes.
