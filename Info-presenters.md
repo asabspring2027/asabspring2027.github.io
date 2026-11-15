@@ -5,7 +5,7 @@ permalink: /Info-presenters/
 featured-img: trb_ardilla_lg
 ---
 
-## Abstract submission: open from 14th December 2026 - 15th February 2027
+## Abstract submission: open 14th December 2026 - 15th February 2027
 
 Your work can be presented at ASAB Spring 2027 in one of these two formats:
 <ul>
