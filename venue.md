@@ -200,7 +200,7 @@ featured-img: drinkingele_lg
     <strong>Gunwarf Quays:</strong> A range of resturants available, with outdoor seating overlooking the marina.
   </li>
   <li>
-    <strong>Outside-In:</strong> A warehouse-style venue featuring a range of independent street food traders and bars
+    <strong><a href="https://www.visitportsmouth.co.uk/listing/outside-in-food-court/173627101/" target="_blank" rel="noopener noreferrer">Outside-In</a>:</strong> A warehouse-style venue featuring a range of independent street food traders and bars
   </li>
   <li>
     <strong><a href="https://www.viet-quan.co.uk/" target="_blank" rel="noopener noreferrer">Viet Quan</a>:</strong> Vietnamese street food - a CCEP favourite!
