@@ -218,6 +218,12 @@ featured-img: drinkingele_lg
   <li>
     <strong>Hotels:</strong> The Ibis, Travelodge and Holiday Inn are all within a 10-minute walk to the University
   </li>
+  <li>
+<strong><a href="[(https://www.port.ac.uk/collaborate/business/business-services/accommodation)](https://www.guestreservations.com/ibis-portsmouth-centre/booking?utm_source=google&utm_medium=cpc&utm_campaign=23768521677&gad_source=1&gad_campaignid=23768521677&gbraid=0AAAAADiMQMZFgkUYWTorQDIJsr6D3FmMA&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zHnW0akONCdOTeekMqJuvbOyu5xrJNfs7TGX78QftIuDLmf-My_5scaAgswEALw_wcB&ctTriggered=true)" target="_blank" rel="noopener noreferrer">The Ibis - Churchill Avenue</a>:</strong> The Ibis hotel is only 5 minutes walk from the main collection of University buildings!
+
+
+    
+  </li>
 </ul>
 
 
