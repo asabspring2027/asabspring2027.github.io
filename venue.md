@@ -60,7 +60,7 @@ featured-img: drinkingele_lg
         <h2>Social Evening</h2>
       </div>
       <p><p>
-  Southsea Beach Café: Join us on Thursday 8th April for an evening of fun! 
+  Southsea Beach Café <a href="https://www.southseabeachcafe.co.uk/" target="_blank">: Join us on Thursday 8th April for an evening of fun! 
   With capacity for 150 students, come and dance the night away by the sea, with a buffet-style meal provided and a free welcome drink for all.
   Submit song requests using the link below – bonus points if it links to your research!
   <br><br>
