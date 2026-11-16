@@ -50,7 +50,7 @@ featured-img: drinkingele_lg
 <div class="post-card committee-card">
     <figure class="post-card__thumb">
       <img
-        src="/assets/img/location-images/southseabeachcafe.jpg"
+        src="/assets/img/location-images/southsea beach cafe.png"
         alt="Social Venue"
       />
     </figure>
