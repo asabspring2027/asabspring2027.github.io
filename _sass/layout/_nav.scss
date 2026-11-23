@@ -1,8 +1,8 @@
 .header {
   background-color: $bg-color;
   color: $text-color;
-  position: absolute;
-  z-index: 4;
+  position: sticky;
+  z-index: 5;
   width: 100%;
   top: 0;
   left: 0;
@@ -25,8 +25,9 @@
   }
 
   &.hide-nav {
-    transform: translateY(-120%);
-    transition: transform .3s;
+    transform: translateY(0%);
+    transition: transform .5s
+ease;
   }
 }
 
