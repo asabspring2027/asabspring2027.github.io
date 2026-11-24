@@ -248,9 +248,7 @@ table td:first-child {
   }
 </style>
 
-# Conference Programmes
-
-## Summary Programme:
+# Conference Programme
 
 |     Day    | Summary                                                              |
 | -----------|----------------------------------------------------------------------|
