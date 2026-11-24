@@ -27,7 +27,7 @@ featured-img: drinkingele_lg
       <div class="post-card__header">
         <h2>Lectures & Breakouts</h2>
       </div>
-      <p>All talks are due to be held in the University of Portsmouth's Portland Building. Plenary lectures to five-minute flash talks will be split between the Atrium, and Rooms PO 1.74, 0.28, 0.41, 1.44, 1.51, 1.66 and 1.67. Room locations are to be announced in the full programme.</p>
+      <p>All talks are due to be held in the University of Portsmouth's Portland Building. Plenary lectures and oral presentations shall take place across Rooms PO 1.74, 0.28, 0.41, 1.44, 1.51, 1.66 and 1.67. Room locations are to be announced in the full programme.</p>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ featured-img: drinkingele_lg
       <div class="post-card__header">
         <h2>Poster Area</h2>
       </div>
-      <p>TBC: Poster session location is TBC.</p>
+      <p>The poster session shall take place in the atrium of the Portland Building. More information about when presenters can set up their posters shall be provided closer to the time.</p>
     </div>
   </div>
 
@@ -60,7 +60,7 @@ featured-img: drinkingele_lg
         <h2>Social Evening</h2>
       </div>
       <p><p>
-   <a href="https://www.southseabeachcafe.co.uk/" target="_blank" rel="noopener noreferrer">Southsea Beach Café:</a> Join us on Thursday 8th April for an evening of fun! With capacity for 150 students, come and dance the night away by the sea, with a buffet-style meal provided and a free welcome drink for all.
+   <a href="https://www.southseabeachcafe.co.uk/" target="_blank" rel="noopener noreferrer">Southsea Beach Café:</a> Join us on Thursday 8th April for an evening of fun! With capacity for 150 students, come and dance the night away by the sea with a buffet-style meal provided for all.
   Submit song requests using the link below – bonus points if it links to your research!
   <br><br>
   <a href="https://heardthebeat.co.uk/university-of-portsmouth-08-04-26/" target="_blank">
@@ -180,7 +180,7 @@ featured-img: drinkingele_lg
 ## How to get there
 <ul>
   <li>
-    <strong>Airports:</strong> Southampton Airport is the closest to the city, whereas London Gatwick and London Heathrow offer great international travel options
+    <strong>Airports:</strong> Southampton Airport is the closest to the city, whereas London Gatwick and London Heathrow offer great international travel options.
   </li>
   <li>
     <strong>Train:</strong> Gatwick Airport offers a direct hourly Southern or Thameslink train service to Portsmouth & Southsea, taking approximately 1 hour and 30 minutes. South Western Railways offers a direct service from Waterloo.
@@ -199,23 +199,23 @@ featured-img: drinkingele_lg
       <strong><a href="https://www.gunwharf-quays.com/en" target="_blank" rel="noopener noreferrer">Gunwarf Quays</a>:</strong> A range of resturants available, with outdoor seating overlooking the marina.
   </li>
   <li>
-    <strong><a href="https://www.visitportsmouth.co.uk/listing/outside-in-food-court/173627101/" target="_blank" rel="noopener noreferrer">Outside-In</a>:</strong> A warehouse-style venue featuring a range of independent street food traders and bars
+    <strong><a href="https://www.visitportsmouth.co.uk/listing/outside-in-food-court/173627101/" target="_blank" rel="noopener noreferrer">Outside-In</a>:</strong> A warehouse-style venue featuring a range of independent street food traders and bars.
   </li>
   <li>
     <strong><a href="https://www.viet-quan.co.uk/" target="_blank" rel="noopener noreferrer">Viet Quan</a>:</strong> Vietnamese street food - a CCEP favourite!
   </li>
   <li>
-    <strong><a href="https://www.nattysjerk.com/" target="_blank" rel="noopener noreferrer">Natty's Jerk</a>:</strong> Caribbean experience, including the beach at the back - another CCEP favourite!
+    <strong><a href="https://www.nattysjerk.com/" target="_blank" rel="noopener noreferrer">Natty's Jerk</a>:</strong> A Caribbean culinary experience - another CCEP favourite!
   </li>
 </ul>
 
 ## Where to stay 
 <ul>
     <li>
-    <strong>AirBnB:</strong> A range of self-catering options available
+    <strong>AirBnB:</strong> Browse to find a range of self-catering options available.
   </li>
   <li>
-    <strong>Hotels:</strong> <a href="[(https://www.port.ac.uk/collaborate/business/business-services/accommodation)](https://www.guestreservations.com/ibis-portsmouth-centre/booking?utm_source=google&utm_medium=cpc&utm_campaign=23768521677&gad_source=1&gad_campaignid=23768521677&gbraid=0AAAAADiMQMZFgkUYWTorQDIJsr6D3FmMA&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zHnW0akONCdOTeekMqJuvbOyu5xrJNfs7TGX78QftIuDLmf-My_5scaAgswEALw_wcB&ctTriggered=true)" target="_blank" rel="noopener noreferrer">The Ibis</a>, <a href="https://www.guestreservations.com/holiday-inn-portsmouth-portsmouth/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006015&gad_source=1&gad_campaignid=991006015&gbraid=0AAAAADiMQMZ_vY6mk3RCHsMkvETswpOaF&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zGfY4quT-euq5gAfUOzNmo8l-cIVNlL258ZxEkV8M_qhTwl_zrFCB0aApkmEALw_wcB" target="_blank" rel="noopener noreferrer">the Holiday Inn</a>, and <a href="https://www.premierinn.com/gb/en/hotels/england/hampshire/portsmouth/portsmouth-city-centre.html?cid=KNC_G_Hotel:UKC_User:UKC_Lang:EN_Cat:BRD-DestinationT2|Portsmouth&adgroupID=175429990511&keyword=premier%20inn%20portsmouth&matchtype=e&gad_source=1&gad_campaignid=22055909009&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zHK5fLq2xOO9LEDQ3SScMbW9VC7nzRveeX0E8NDAW_NLn8Yc_w5h08aAhjmEALw_wcB&BRAND=PI" target="_blank" rel="noopener noreferrer">Premier Inn</a> are all within 5-20 minutes walk of the University
+    <strong>Hotels:</strong> <a href="[(https://www.port.ac.uk/collaborate/business/business-services/accommodation)](https://www.guestreservations.com/ibis-portsmouth-centre/booking?utm_source=google&utm_medium=cpc&utm_campaign=23768521677&gad_source=1&gad_campaignid=23768521677&gbraid=0AAAAADiMQMZFgkUYWTorQDIJsr6D3FmMA&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zHnW0akONCdOTeekMqJuvbOyu5xrJNfs7TGX78QftIuDLmf-My_5scaAgswEALw_wcB&ctTriggered=true)" target="_blank" rel="noopener noreferrer">The Ibis</a>, <a href="https://www.guestreservations.com/holiday-inn-portsmouth-portsmouth/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006015&gad_source=1&gad_campaignid=991006015&gbraid=0AAAAADiMQMZ_vY6mk3RCHsMkvETswpOaF&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zGfY4quT-euq5gAfUOzNmo8l-cIVNlL258ZxEkV8M_qhTwl_zrFCB0aApkmEALw_wcB" target="_blank" rel="noopener noreferrer">the Holiday Inn</a>, and <a href="https://www.premierinn.com/gb/en/hotels/england/hampshire/portsmouth/portsmouth-city-centre.html?cid=KNC_G_Hotel:UKC_User:UKC_Lang:EN_Cat:BRD-DestinationT2|Portsmouth&adgroupID=175429990511&keyword=premier%20inn%20portsmouth&matchtype=e&gad_source=1&gad_campaignid=22055909009&gclid=Cj0KCQiAzeXXBhCGARIsADO5-zHK5fLq2xOO9LEDQ3SScMbW9VC7nzRveeX0E8NDAW_NLn8Yc_w5h08aAhjmEALw_wcB&BRAND=PI" target="_blank" rel="noopener noreferrer">Premier Inn</a> are all within 5-20 minutes walk of the University.
   </li>
   <li>
 <strong>University of Portsmouth accommodation:</strong> <a href="https://www.port.ac.uk/collaborate/business/business-services/accommodation">Click the link to explore University-based accommodation options!</a> Contact David Goodwin or Reservations Portsmouth for their rates of single and double en suite accommodation, including breakfast. 
