@@ -58,13 +58,13 @@ The conference venues are xxxxx (check this). Attendees are invited to give acce
 
 # Social Media
 
-Do:
+## Do:
 - Follow the ASAB Spring 2027 Conference on Social Media (BlueSky!) and use #ASABSpring2027 when posting.
 - Tweet (or communicate on other social media) about what you are hearing and learning at #ASABSpring2027, but refrain from sharing when the speaker explicitly requests you do so. Presentations (talks/posters) are shareable by default, but speakers can request that the presentation, or specific details or slides are not shared using a “no social media” symbol.
 - Communicate with respect and consideration for others, following good practice guidelines.
 - E-mail us or speak to a conference organiser (in confidence) in the first instance if you have any concerns or comments regarding the use of social media.
 
-Don’t:
+## Don’t:
 - Bully, harass, or be rude to any individual or group
 - Post inappropriate images or breach copyright
 - Post images or re-distribute slides or data where the presenter has indicated “no social media”; such a symbol indicates that sharing may preclude subsequent publication of the data, embargo policies, or similar.
