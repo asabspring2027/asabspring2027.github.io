@@ -7,13 +7,13 @@ featured-img: babybaboon_lg
 
 # Registration link coming soon!
 
-To confirm your attendance, please send money to the university at XXXXXX and complete this online registration form XXXX. When completing the registration form, there will be options to submit an abstract for a oral and/or poster presentation, else just attend the conference as a delegate. Please see "Information for Presenters" or "Information for Attendees" on the "Information" page on this website. You will receive a confirmation e-mail from CCEP Portsmouth once your registration form is submitted and payment is confirmed.
+To confirm your attendance, please complete the online registration form at XXXX and send you payment to the university at XXXX. When completing the registration form, there will be options to submit an abstract for an oral and/or poster presentation, otherwise you can attend the conference as a delegate. Please see "Information for Presenters" or "Information for Attendees" on the "Information" page on this website for more details. You will receive a confirmation e-mail from CCEP Portsmouth once your registration form is submitted and payment is confirmed.
 
 ## Key Dates
 
 - Registration and abstract submissions opens on: TBC
 - Abstract submission deadline: 15th February 2027
-- Abstract announced: 15th March 2027
+- Abstracts announced: 15th March 2027
 - Registration closes: 15th March 2027
 
 ## Prices
@@ -22,7 +22,7 @@ To confirm your attendance, please send money to the university at XXXXXX and co
 - Non-students (no workshop): £110
 - Non-students (workshop included): £130
 
-The ticket fee includes the registration fee, lunch on Day 1 and Day 2 of the conference, all refreshments throughout the conference and the conference social at Southsea Beach Café, where a buffet-style meal will be provided. Please note the ticket price does not include drinks at the conference social, or lunch on the Workshop Day.  
+The ticket fee includes the registration fee, lunch on both days of the conference, all refreshments throughout the conference and the conference social at Southsea Beach Café, where a buffet-style meal will be provided. Please note the ticket price does not include drinks at the conference social, or lunch on the initial Workshop Day.  
 
 ## ASAB Conference Grant
 
