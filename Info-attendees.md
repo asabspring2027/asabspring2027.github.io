@@ -56,7 +56,7 @@ Attendees are invited to provide details of children and/or care-givers attendin
 # Accessibility 
 The conference venues are xxxxx (check this). Attendees are invited to give accessibility or disability information in advance through the registration form. They may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.
 
-#Social Media
+# Social Media
 
 Do:
 - Follow the ASAB Spring 2027 Conference on Social Media (BlueSky!) and use #ASABSpring2027 when posting.
