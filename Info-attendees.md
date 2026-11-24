@@ -42,6 +42,30 @@ Dr Vivek Nityananda - meetings[@]asab.org
 ## Consequences
 Conference organisers and moderators will address reports of behaviour that breaches the conference Code of Conduct and may contact individuals who do not meet these expectations. We reserve the right to ask any delegate who breaches the Code of Conduct to leave the meeting. In serious or repeated cases, this may also include prohibiting attendance at future conferences. 
 
+# Family 
+ASAB awards Childcare Grants of up to £500 (click here for more information https://www.asab.org/childcare). The awards are designed to provide a flexible contribution towards the additional costs of conference attendance faced by members with young children. 
+
+The University of Portsmouth allows baby-wearing in all areas and welcomes children under supervision (Please see Portsmouth University’s Health and Safety policy regarding children and young persons xxxxx). The university supports breastfeeding in any part of any building, so mothers can feel free to feed their child wherever suits them. Comfortable nursing spaces with baby-changing facilities are also available in xxxxx (check this)
+
+Attendees are invited to provide details of children and/or care-givers attending by email to the organising committee. A member of the organising committee may then contact you to seek further information.
+
+# Equality 
+As a small conference event we seek to ensure an environment of mutual concern and respect for all individuals. We strive to achieve appropriate representation of women, men, and non-binary people in line with the gender balance in our research community in all aspects of the ASAB Conference.
+
+# Accessibility 
+The conference venues are xxxxx (check this). Attendees are invited to give accessibility or disability information in advance through the registration form. They may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.
+
+Do:
+- Follow the ASAB 2027 Spring Conference on Social Media (BlueSky!) and tweet using #ASABSpring2027
+- Tweet (or communicate on other social media) about what you are hearing and learning at #ASABSpring2027, but refrain from sharing when the speaker explicitly requests you do so. Presentations (talks/posters) are shareable by default, but speakers can request that the presentation, or specific details or slides are not shared using a “no social media” symbol.
+- Communicate with respect and consideration for others, following good practice guidelines.
+- E-mail us or speak to a conference organiser (in confidence) in the first instance if you have any concerns or comments regarding the use of social media.
+
+Don’t:
+- Bully, harass, or be rude to any individual or group
+- Post inappropriate images or breach copyright
+- Post images or re-distribute slides or data where the presenter has indicated “no social media”; such a symbol indicates that sharing may preclude subsequent publication of the data, embargo policies, or similar.
+
 
 <p class="info-presenters-image">
   <img 
