@@ -5,11 +5,9 @@ permalink: /contact/
 featured-img: hippo_lg
 ---
 
-Check the form below
+### Have a question? Email us!
 
-### Example Formspree contact form with validation and reCaptcha
-
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+Fill in the form or [email CCEP Portsmouth](mailto:{{site.email}}) to ask anything about the conference!
 
 {% include form.html %}
 
