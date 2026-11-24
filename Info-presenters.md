@@ -18,7 +18,7 @@ Your work can be presented at ASAB Spring 2027 in one of these two formats:
 </ul>
 
 ### Selection process
-Presentations will be selected based on the submitted title (12 words maximum) and abstract only (blind to speaker identity), which should be clear and concise (200 words maximum) and consist of:
+Oral or poster presentations will be selected based on the submitted title (12 words maximum) and abstract (200 words maximum). Abstracts should be clear, concise and consist of:
 <ul>
     <li>
     Brief background
@@ -40,16 +40,14 @@ Presentations will be selected based on the submitted title (12 words maximum) a
 Please note that while we have limited space for standard talks, rejected talk submissions might be offered a poster slot. Please indicate in the registration form if you would like to be considered for a poster if not successful for an oral presentation.
 
 We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.
-The deadline for abstract is <strong>February 15th 2027<strong>.
+The deadline for abstract submission is <strong>February 15th 2027<strong>.
 
-### Talks
-Talks should be 12 minutes long, which allows 3 minutes for questions and discussion as each slot is 15 minutes.
+### Standard Talks
+Talks should be 12 minutes long, with 3 minutes for questions and discussion (each oral presentation slot is 15 minutes).
 Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. 
 
 ### Posters
-Posters should be A1 (59.4 cm x 84.1 cm), portrait orientation. The poster sessions will take place on Conference Days 1 and 2. For more information see our programme.
+Posters should be A1 (59.4 cm x 84.1 cm), portrait orientation. The poster sessions will take place on Conference Days 1 and 2. 
 
 ### Research Ethics
-Presenters/authors must declare that all work has been carried out in accordance with ASAB/ABS’s Guidelines for the Treatment of Animals in Research. We will not consider for presentation any research that failed to adhere to the highest standards of animal welfare, and may contact authors for clarification before considering a submission. Note that these Guidelines are often more exacting than what is merely legal, such as the housing conditions of social species. If your research was invasive and/or experimental, there is a space on the registration form for clarifying how these standards were adhered to.
-
-We are not accepting work produced by generative artificial intelligence. All submissions must represent original research conducted by the authors.
+Presenters/authors must declare that all work has been carried out in accordance with ASAB’s Guidelines for the Treatment of Animals in Research. We will not consider for presentation any research that failed to adhere to the highest standards of animal welfare, and may contact authors for clarification before considering a submission. We are also not accepting work produced by generative artificial intelligence. All submissions must represent original research conducted by the authors.
