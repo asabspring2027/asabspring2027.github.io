@@ -256,7 +256,7 @@ table td:first-child {
 | 08/04/2027 | Conference Day 1: Talks and posters, with evening social             |         
 | 09/04/2027 | Conference Day 2: Talks and posters, with awards and closing remarks |   
 
-## Brief Programme: TBC
+## Schedule: TBC
 
 |     Day    |  Time |  Event  | Location |
 | -----------|-------|---------|----------|
