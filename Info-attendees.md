@@ -42,6 +42,9 @@ Dr Vivek Nityananda - meetings[@]asab.org
 ## Consequences
 Conference organisers and moderators will address reports of behaviour that breaches the conference Code of Conduct and may contact individuals who do not meet these expectations. We reserve the right to ask any delegate who breaches the Code of Conduct to leave the meeting. In serious or repeated cases, this may also include prohibiting attendance at future conferences. 
 
+# Equality 
+As a small conference event we seek to ensure an environment of mutual concern and respect for all individuals. We strive to achieve appropriate representation of women, men, and non-binary people in line with the gender balance in our research community in all aspects of the ASAB Conference.
+
 # Family 
 ASAB awards Childcare Grants of up to £500. <a href="(https://www.asab.org/childcare)">Click here for more information about ASAB childcare grants.</a> The awards are designed to provide a flexible contribution towards the additional costs of conference attendance faced by members with young children. 
 
@@ -49,11 +52,11 @@ The University of Portsmouth allows baby-wearing in all areas and welcomes child
 
 Attendees are invited to provide details of children and/or care-givers attending by email to the organising committee. A member of the organising committee may then contact you to seek further information.
 
-# Equality 
-As a small conference event we seek to ensure an environment of mutual concern and respect for all individuals. We strive to achieve appropriate representation of women, men, and non-binary people in line with the gender balance in our research community in all aspects of the ASAB Conference.
 
 # Accessibility 
 The conference venues are xxxxx (check this). Attendees are invited to give accessibility or disability information in advance through the registration form. They may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.
+
+#Social Media
 
 Do:
 - Follow the ASAB 2027 Spring Conference on Social Media (BlueSky!) and tweet using #ASABSpring2027
