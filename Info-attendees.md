@@ -43,7 +43,7 @@ Dr Vivek Nityananda - meetings[@]asab.org
 Conference organisers and moderators will address reports of behaviour that breaches the conference Code of Conduct and may contact individuals who do not meet these expectations. We reserve the right to ask any delegate who breaches the Code of Conduct to leave the meeting. In serious or repeated cases, this may also include prohibiting attendance at future conferences. 
 
 # Family 
-ASAB awards Childcare Grants of up to £500 (click here for more information https://www.asab.org/childcare). The awards are designed to provide a flexible contribution towards the additional costs of conference attendance faced by members with young children. 
+ASAB awards Childcare Grants of up to £500. <a href="(https://www.asab.org/childcare)">Click here for more information about ASAB childcare grants.</a> The awards are designed to provide a flexible contribution towards the additional costs of conference attendance faced by members with young children. 
 
 The University of Portsmouth allows baby-wearing in all areas and welcomes children under supervision (Please see Portsmouth University’s Health and Safety policy regarding children and young persons xxxxx). The university supports breastfeeding in any part of any building, so mothers can feel free to feed their child wherever suits them. Comfortable nursing spaces with baby-changing facilities are also available in xxxxx (check this)
 
