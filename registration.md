@@ -22,7 +22,8 @@ To confirm your attendance, please complete the online registration form at XXXX
 - Non-students (no workshop): £110
 - Non-students (workshop included): £130
 
-The ticket fee includes the registration fee, lunch on both days of the conference, all refreshments throughout the conference and the conference social at Southsea Beach Café, where a buffet-style meal will be provided. Please note the ticket price does not include drinks at the conference social, or lunch on the initial Workshop Day.  
+The ticket fee includes the registration fee, lunch on both days of the conference, all refreshments throughout the conference and the conference social at Southsea Beach Café, where a buffet-style meal will be provided. 
+Please note the ticket price does not include drinks at the conference social, or lunch on the initial Workshop Day.  
 
 ## ASAB Conference Grant
 
