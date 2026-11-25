@@ -27,7 +27,7 @@ featured-img: drinkingele_lg
       <div class="post-card__header">
         <h2>Lectures & Breakouts</h2>
       </div>
-      <p>All talks are due to be held in the University of Portsmouth's Portland Building. Plenary lectures and oral presentations shall take place across Rooms PO 1.74, 0.28, 0.41, 1.44, 1.51, 1.66 and 1.67. Room locations are to be announced in the full programme.</p>
+      <p>All talks are due to be held in the University of Portsmouth's Portland Building. Plenary lectures and oral presentations will take place across Rooms PO 1.74, 0.28, 0.41, 1.44, 1.51, 1.66 and 1.67. Room locations are to be announced in the full programme.</p>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ featured-img: drinkingele_lg
       <div class="post-card__header">
         <h2>Poster Area</h2>
       </div>
-      <p>The poster session shall take place in the atrium of the Portland Building. More information about when presenters can set up their posters shall be provided closer to the time.</p>
+      <p>The poster session will take place in the atrium of the Portland Building. More information about when presenters can set up their posters shall be provided closer to the time.</p>
     </div>
   </div>
 
